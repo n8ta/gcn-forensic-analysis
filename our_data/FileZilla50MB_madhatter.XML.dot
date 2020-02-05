@@ -1,0 +1,17 @@
+strict digraph G {
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_";
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_";
+  "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_";
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_";
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="606" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="526" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" [ label="1" ];
+  "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="1" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" [ label="223" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" [ label="2882" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="145" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="713" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="175" ];
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" [ label="1198" ];
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58297 -&gt; madhatter.ece.northwestern.edu:ssh_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\50mb.txt_47DEQ_" [ label="97" ];
+}

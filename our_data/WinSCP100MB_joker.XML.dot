@@ -1,0 +1,22 @@
+strict digraph G {
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_";
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_";
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_";
+  "TCP Retransmit KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_";
+  "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_";
+  "NotifyChangeDirectory C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_";
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="2793" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" [ label="876" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" [ label="2179" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="898" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="848" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="2042" ];
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" [ label="150" ];
+  "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="941" ];
+  "ReadFile C:\Users\Kevin Chan\Desktop\File Transfers\100mb.txt_47DEQ_" -> "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="128" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Retransmit KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="2" ];
+  "TCP Retransmit KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "TCP Send KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" [ label="2" ];
+  "TCP Receive KevinChan-PC.wireless.northwestern.private:58557 -&gt; joker.ece.northwestern.edu:ssh_47DEQ_" -> "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_" [ label="1" ];
+  "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_" -> "NotifyChangeDirectory C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_" [ label="2" ];
+  "NotifyChangeDirectory C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_" -> "CreateFile C:\Users\Kevin Chan\Desktop\File Transfers_47DEQ_" [ label="1" ];
+}
