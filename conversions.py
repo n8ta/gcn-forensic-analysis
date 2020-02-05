@@ -80,8 +80,8 @@ def prepare_data(training_paths, test_paths, dataset_name, output_path):
     # End Loop
 
     # Testing / Training feature vectors, start as zero
-    training_feature_vec = np.zeros((training_count, 2), int)
-    test_feature_vec = np.zeros((testing_count, 2), int)
+    training_feature_vec = np.zeros((training_count, 2), float)
+    test_feature_vec = np.zeros((testing_count, 2), float)
 
     def add_to_feature_vec(paths, feat_vec, nodes_to_id):
         # Take a path (dot file - a graph) and loop through its edges adding them to the feature vec
