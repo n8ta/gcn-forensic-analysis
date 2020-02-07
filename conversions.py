@@ -115,28 +115,59 @@ def prepare_data(training_paths, test_paths, dataset_name, output_path):
     pickle.dump(testing_labels, open(join(output_path, "ind.{}.ty".format(dataset_name)), 'wb'))
     # Dump as text the raw test indices (index in the adjacency matrix not the index in the feature matrix)
     with open(join(output_path, "ind.{}.test.index".format(dataset_name)), 'w') as test_index_file:
-        for node in training_node_indices:
+        for node in test_node_indices:
             test_index_file.write(str(node) + "\r\n")
 
     return 0
 
 
-training_paths = {'filezilla': [join("our_data", "FileZilla10MB_joker.XML.dot"),
-                                join("our_data", "FileZilla10MB_madhatter.XML.dot"),
-                                join("our_data", "FileZilla20MB_joker.XML.dot"),
-                                join("our_data", "FileZilla20MB_madhatter.XML.dot"),
-                                join("our_data", "FileZilla50MB_joker.XML.dot")],
-                  'winscp': [join("our_data", "WinSCP10MB_madhatter.XML.dot"),
-                             join("our_data", "WinSCP20MB_joker.XML.dot"),
-                             join("our_data", "WinSCP50MB_madhatter.XML.dot"),
-                             join("our_data", "WinSCP100MB_joker.XML.dot")]}
-test_paths = {'filezilla': [join("our_data", "FileZilla50MB_madhatter.XML.dot"),
-                            join("our_data", "FileZilla100MB_joker.XML.dot"),
-                            join("our_data", "FileZilla100MB_madhatter.XML.dot")],
-              'winscp': [join("our_data", "WinSCP10MB_joker.XML.dot"),
-                         join("our_data", "WinSCP20MB_madhatter.XML.dot"),
-                         join("our_data", "WinSCP50MB_joker.XML.dot"),
-                         join("our_data", "WinSCP100MB_madhatter.XML.dot")]}
+training_paths = {
+    'skype_filetransfer': [join("our_data", "SkypeFileTransfer20MB.XML.dot")],
+    'skype_videocall': [join("our_data", "SkypeVideoCall10min.XML.dot"),
+                        join("our_data", "SkypeVideoCall15min.XML.dot")],
+    # 'music': [join("our_data", "Spotify1min_offline_singlesong.XML.dot"),
+    #           join("our_data", "Spotify1min.XML.dot"),
+    #           join("our_data", "Spotify5min_online_singlesong.XML.dot"),
+    #           join("our_data", "Spotify10min_offline_singlesong.XML.dot"),
+    #           join("our_data", "Spotify10min.XML.dot"),
+    #           join("our_data", "SpotifyDownload20_online.XML.dot")],
+    'filezilla': [join("our_data", "FileZilla10MB_joker.XML.dot"),
+                  join("our_data", "FileZilla10MB_madhatter.XML.dot"),
+                  join("our_data", "FileZilla20MB_joker.XML.dot"),
+                  join("our_data", "FileZilla20MB_madhatter.XML.dot"),
+                  join("our_data", "FileZilla50MB_joker.XML.dot")],
+    'winscp': [join("our_data", "WinSCP10MB_madhatter.XML.dot"),
+               join("our_data", "WinSCP20MB_joker.XML.dot"),
+               join("our_data", "WinSCP50MB_madhatter.XML.dot"),
+               join("our_data", "WinSCP100MB_joker.XML.dot")],
+    'winrar':
+        [join("our_data", "winrar_matching_trace1.XML.dot"),
+         join("our_data", "winrar_matching_trace3.XML.dot")],
+    # 'winrar_nonmatching': [join("our_data", "winrar_nonmatching.XML.dot")],
 
-"our_data/"
+}
+test_paths = {
+    'skype_filetransfer': [join("our_data", "SkypeFileTransfer10MB.XML.dot"),
+                           join("our_data", "SkypeFileTransfer50MB.XML.dot")],
+    'skype_videocall': [
+        join("our_data", "SkypeVideoCall1min.XML.dot"),
+        join("our_data", "SkypeVideoCall20mins.XML.dot")],
+    'filezilla': [join("our_data", "FileZilla50MB_madhatter.XML.dot"),
+                  join("our_data", "FileZilla100MB_joker.XML.dot"),
+                  join("our_data", "FileZilla100MB_madhatter.XML.dot")],
+    'winscp': [join("our_data", "WinSCP10MB_joker.XML.dot"),
+               join("our_data", "WinSCP20MB_madhatter.XML.dot"),
+               join("our_data", "WinSCP50MB_joker.XML.dot"),
+               join("our_data", "WinSCP100MB_madhatter.XML.dot")],
+    # 'music': [join("our_data", "SpotifyDownload50_online.XML.dot"),
+    #           join("our_data", "SpotifyDownload10_online.XML.dot"),
+    #           join("our_data", "Spotify10min_online_singlesong.XML.dot"),
+    #           join("our_data", "Spotify5min.XML.dot"),
+    #           join("our_data", "Spotify5min_offline_singlesong.XML.dot"),
+    #           join("our_data", "Spotify1min_online_singlesong.XML.dot"), ],
+    'winrar': [join("our_data", "winrar_matching_trace4.XML.dot"),
+               join("our_data", "winrar_matching_trace2.XML.dot")],
+    # 'winrar_nonmatching': [join("our_data", "winrar_nonmatching.XML.dot")]
+}
+
 prepare_data(training_paths, test_paths, "n8ta", "data")
