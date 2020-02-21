@@ -5,169 +5,152 @@ import numpy as np
 from scipy import sparse
 from os.path import join
 import pickle
+import json
 
 
-def prepare_data(training_paths, test_paths, dataset_name, output_path):
-    # Training and test paths are dictionaries whose keys are the features
-    # they must have the same keys
-    # The values in the dictionary are lists of paths to dot (.gv) format graph files
-    adjacency_matrix = collections.defaultdict()
-    training_count = 0  # count for number of training nodes
-    testing_count = 0  # ^
-    count = 0  # sum of the above
-    training_nodes_to_id = {}  # names of training nodes --> index of training nodes
-    testing_nodes_to_id = {}  # ^
+class Node:
+    count = 0
+    sub_counts = {'training': 0, 'testing': 0}
 
-    class_count = 0  # number of classes
-    class_dict = {}  # index of class -> name of class
-    class_dict_rev = {}  # name of class -> index of class
-    class_nodes_training = {}  # index of class -> list(node indices of that class)
-    class_nodes_test = {}  # ^
+    def __init__(self, str, class_id, type, path):
+        obj = json.loads(str)
+        self.fileName = obj['filePath']
+        self.eventName = obj['eventName']
+        self.callStack = obj['callstack']
+        self.in_degree = 0
+        self.out_degree = 0
+        self.id = Node.count
+        self.children = set()
+        self.parents = set()
+        self.path = path
+        self.class_id = class_id
+        if type not in ['training', 'testing']:
+            raise Exception('Bad node type')
+        self.type = type
+        self.sub_id = Node.sub_counts[self.type]
+        Node.count += 1
+        Node.sub_counts[self.type] += 1
+
+
+def prepare_data(training_paths, testing_paths, dataset_name, output_path):
+    nodes = {}  # name -> node
+    class_count = 0
+    class_dict = {}
+    adjacency_matrix = {}
+    for class_name in training_paths.keys():
+        class_dict[class_name] = class_count
+        class_count = class_count + 1
+
+    # Generate nodes in the nodes{} dict for each node on each line in each file in each path
+    # Don't generated duplicates
+    def prepare(type, class_id, paths):
+        for path in paths:
+            with open(path, 'r') as file:
+                last_node = None
+                for line in file:
+                    current_node = None
+                    filePath = json.loads(line)['filePath']
+                    eventName = json.loads(line)['eventName']
+                    if filePath + path + eventName in nodes.keys():
+                        current_node = nodes[filePath + path + eventName]
+                    else:
+                        current_node = Node(line, class_id, type, path)
+                        nodes[filePath + path + eventName] = current_node
+                    if last_node:
+                        last_node.out_degree += + 1
+                        current_node.in_degree += + 1
+                        current_node.parents.add(last_node)
+                        last_node.children.add(current_node)
+                    last_node = current_node
 
     for class_name in training_paths.keys():
-        # Generate # of class, plus init lists of nodes
-        class_dict[class_count] = class_name
-        class_dict_rev[class_name] = class_count
-        class_nodes_training[class_count] = list()
-        class_nodes_test[class_count] = list()
-        class_count += 1
+        prepare("training", class_dict[class_name], training_paths[class_name])
+    for class_name in testing_paths.keys():
+        prepare("testing", class_dict[class_name], testing_paths[class_name])
 
-    def input_path(path, count, secondary_count, class_id, class_nodes_dict, nodes_to_id):
-        # Insert a path (file) into the adjacency matrix and add its nodes to the relevent dict.
-        # Increment counters for number of nodes & number of test or training nodes
-        dot_graph = graph_from_dot_file(path)
-        for node in dot_graph[0].obj_dict['nodes']:
-            nodes_to_id[node + path] = secondary_count  # Add this node to the dictionary mapping names to ids
-            if count not in class_nodes_dict[class_id]:
-                class_nodes_dict[class_id].append(count)  # Keep track of node class in this dict
-            adjacency_matrix[count] = list()  # Init the adjacency matrix column for this node to the empty list
-            count = count + 1
-            secondary_count += 1
-        return count, secondary_count  # all node counter, training/test counter
+    training_count = len(list(filter(lambda node: node.type == "training", nodes.values())))
+    testing_count = len(list(filter(lambda node: node.type == "testing", nodes.values())))
 
-    # Build the adjacency matrix keeping count of how many nodes we have in 'count'
-    for class_name in training_paths.keys():
-        for path in training_paths[class_name]:
-            count, training_count = input_path(path, count, training_count, class_dict_rev[class_name],
-                                               class_nodes_training, training_nodes_to_id)
-    for class_name in test_paths.keys():
-        for path in test_paths[class_name]:
-            count, testing_count = input_path(path, count, testing_count, class_dict_rev[class_name], class_nodes_test,
-                                              testing_nodes_to_id)
+    training_feature_vec = np.zeros((training_count, 4), float)
+    testing_feature_vec = np.zeros((testing_count, 4), float)
 
-    # Start looping through the class_nodes_training/test dicts
-    # add their values to the appropriate index in the label arrays
-    # we only used the dictionaries b/c we couldn't initialize the arrays
-    # until we knew how big they would be.
     training_labels = np.zeros((training_count, class_count), int)
     testing_labels = np.zeros((testing_count, class_count), int)
+    testing_node_indices = list()
+    training_node_indices = list()
 
-    training_node_indices = []
-    j = 0
-    for class_index in class_nodes_training.keys():
-        for training_node in class_nodes_training[class_index]:
-            training_labels[j][class_index] = 1
-            training_node_indices.append(training_node)
-            j += 1
+    def build_feat_and_class_vec(nodes, labels, feat_vec, indices_list):
+        for node in nodes:
+            if node.id not in adjacency_matrix.keys():
+                adjacency_matrix[node.id] = list()
+            labels[node.sub_id][node.class_id] = 1
+            indices_list.append(node.id)
+            feat_vec[node.sub_id][2] = hash(node.callStack)
+            feat_vec[node.sub_id][3] = hash(node.eventName)
+            for child in node.children:
+                feat_vec[node.sub_id][1] += 1
+                feat_vec[child.sub_id][0] += 1
+                if child.id not in adjacency_matrix[node.id]:
+                    adjacency_matrix[node.id].append(child.id)
 
-    test_node_indices = []  # Indices of all testing nodes
-    j = 0
-    for class_index in class_nodes_test.keys():
-        for test_node in class_nodes_test[class_index]:
-            testing_labels[j][class_index] = 1
-            test_node_indices.append(test_node)
-            j += 1
-    # End Loop
-
-    # Testing / Training feature vectors, start as zero
-    training_feature_vec = np.zeros((training_count, 2), float)
-    test_feature_vec = np.zeros((testing_count, 2), float)
-
-    def add_to_feature_vec(paths, feat_vec, nodes_to_id):
-        # Take a path (dot file - a graph) and loop through its edges adding them to the feature vec
-        # require the dictionary converting names+path -> index; it's different for test/training
-        for path in paths:
-            dot_graph = graph_from_dot_file(path)
-            for edge in dot_graph[0].obj_dict['edges']:
-                from_node = nodes_to_id[edge[0] + path]
-                to_node = nodes_to_id[edge[1] + path]
-                # Increment feature for in/out degree
-                feat_vec[from_node][1] += 1
-                feat_vec[to_node][0] += 1
-                # Add to adjacency matrix
-                if to_node not in adjacency_matrix[from_node]:
-                    adjacency_matrix[from_node].append(to_node)
-
-    for class_name in training_paths.keys():
-        add_to_feature_vec(training_paths[class_name], training_feature_vec, training_nodes_to_id)
-        add_to_feature_vec(test_paths[class_name], test_feature_vec, testing_nodes_to_id)
-
-    training_feature_vec = sparse.csr_matrix(training_feature_vec)  # cast to correct type for gcn library
-    test_feature_vec = sparse.csr_matrix(test_feature_vec)  # cast to correct type for gcn library
+    build_feat_and_class_vec(filter(lambda node: node.type == "training", nodes.values()), training_labels,
+                             training_feature_vec,
+                             training_node_indices)
+    build_feat_and_class_vec(filter(lambda node: node.type == "testing", nodes.values()), testing_labels,
+                             testing_feature_vec,
+                             testing_node_indices)
 
     # Dump in pickle format
     pickle.dump(adjacency_matrix, open(join(output_path, "ind.{}.graph".format(dataset_name)), 'wb'))
     pickle.dump(training_feature_vec, open(join(output_path, "ind.{}.x".format(dataset_name)), 'wb'))
     pickle.dump(training_feature_vec, open(join(output_path, "ind.{}.allx".format(dataset_name)), 'wb'))
-    pickle.dump(test_feature_vec, open(join(output_path, "ind.{}.tx".format(dataset_name)), 'wb'))
+    pickle.dump(testing_feature_vec, open(join(output_path, "ind.{}.tx".format(dataset_name)), 'wb'))
     pickle.dump(training_labels, open(join(output_path, "ind.{}.y".format(dataset_name)), 'wb'))
     pickle.dump(training_labels, open(join(output_path, "ind.{}.ally".format(dataset_name)), 'wb'))
     pickle.dump(testing_labels, open(join(output_path, "ind.{}.ty".format(dataset_name)), 'wb'))
     # Dump as text the raw test indices (index in the adjacency matrix not the index in the feature matrix)
     with open(join(output_path, "ind.{}.test.index".format(dataset_name)), 'w') as test_index_file:
-        for node in test_node_indices:
+        for node in testing_node_indices:
             test_index_file.write(str(node) + "\r\n")
 
     return 0
 
 
+def jn(text):
+    return join("our_data_txt", text)
+
+
 training_paths = {
-    'skype_filetransfer': [join("our_data", "SkypeFileTransfer20MB.XML.dot")],
-    'skype_videocall': [join("our_data", "SkypeVideoCall10min.XML.dot"),
-                        join("our_data", "SkypeVideoCall15min.XML.dot")],
-    'music': [join("our_data", "Spotify1min_offline_singlesong.XML.dot"),
-              join("our_data", "Spotify1min.XML.dot"),
-              join("our_data", "Spotify5min_online_singlesong.XML.dot"),
-              join("our_data", "Spotify10min_offline_singlesong.XML.dot"),
-              join("our_data", "Spotify10min.XML.dot"),
-              join("our_data", "SpotifyDownload20_online.XML.dot")],
-    'filezilla': [join("our_data", "FileZilla10MB_joker.XML.dot"),
-                  join("our_data", "FileZilla10MB_madhatter.XML.dot"),
-                  join("our_data", "FileZilla20MB_joker.XML.dot"),
-                  join("our_data", "FileZilla20MB_madhatter.XML.dot"),
-                  join("our_data", "FileZilla50MB_joker.XML.dot")],
-    'winscp': [join("our_data", "WinSCP10MB_madhatter.XML.dot"),
-               join("our_data", "WinSCP20MB_joker.XML.dot"),
-               join("our_data", "WinSCP50MB_madhatter.XML.dot"),
-               join("our_data", "WinSCP100MB_joker.XML.dot")],
-    'winrar':
-        [join("our_data", "winrar_matching_trace1.XML.dot"),
-         join("our_data", "winrar_matching_trace3.XML.dot")],
-    # 'winrar_nonmatching': [join("our_data", "winrar_nonmatching.XML.dot")],
-
-}
-test_paths = {
-    'skype_filetransfer': [join("our_data", "SkypeFileTransfer10MB.XML.dot"),
-                           join("our_data", "SkypeFileTransfer50MB.XML.dot")],
-    'skype_videocall': [
-        join("our_data", "SkypeVideoCall1min.XML.dot"),
-        join("our_data", "SkypeVideoCall20mins.XML.dot")],
-    'filezilla': [join("our_data", "FileZilla50MB_madhatter.XML.dot"),
-                  join("our_data", "FileZilla100MB_joker.XML.dot"),
-                  join("our_data", "FileZilla100MB_madhatter.XML.dot")],
-    'winscp': [join("our_data", "WinSCP10MB_joker.XML.dot"),
-               join("our_data", "WinSCP20MB_madhatter.XML.dot"),
-               join("our_data", "WinSCP50MB_joker.XML.dot"),
-               join("our_data", "WinSCP100MB_madhatter.XML.dot")],
-    'music': [join("our_data", "SpotifyDownload50_online.XML.dot"),
-              join("our_data", "SpotifyDownload10_online.XML.dot"),
-              join("our_data", "Spotify10min_online_singlesong.XML.dot"),
-              join("our_data", "Spotify5min.XML.dot"),
-              join("our_data", "Spotify5min_offline_singlesong.XML.dot"),
-              join("our_data", "Spotify1min_online_singlesong.XML.dot"), ],
-    'winrar': [join("our_data", "winrar_matching_trace4.XML.dot"),
-               join("our_data", "winrar_matching_trace2.XML.dot")],
-    # 'winrar_nonmatching': [join("our_data", "winrar_nonmatching.XML.dot")]
+    'filezilla': [jn("FileZilla10MB_joker.txt"),
+                  jn("FileZilla20MB_madhatter.txt"),
+                  jn("FileZilla50MB_joker.txt"),
+                  jn("FileZilla100MB_madhatter.txt")],
+    'winrar': [jn("winrar1.txt"),
+               jn("winrar2.txt")],
+    'skype_transfer':
+        [jn("SkypeFileTransfer10MB.txt"),
+         jn("SkypeFileTransfer50MB.txt")],
+    'skype_video': [jn("SkypeVideoCall10min.txt"),
+                    jn("SkypeVideoCall20mins.txt")],
+    'spotify_music': [jn("Spotify10min.txt"),
+                      jn("Spotify1min.txt")],
+    'spotify_online': [jn("Spotify1min_online_singlesong.txt"), jn("Spotify5min_online_singlesong.txt")],
+    'spotify_offline': [jn("Spotify10min_offline_singlesong.txt"), jn("Spotify1min_offline_singlesong.txt")]
 }
 
-prepare_data(training_paths, test_paths, "n8ta", "data")
+testing_paths = {
+    'winrar': [jn("winrar3.txt"),
+               jn("winrar4.txt")],
+    'filezilla': [jn("FileZilla10MB_madhatter.txt"),
+                  jn("FileZilla20MB_joker.txt"),
+                  jn("FileZilla50MB_madhatter.txt"),
+                  jn("FileZilla100MB_joker.txt"), ],
+    'skype_transfer': [jn("SkypeFileTransfer20MB.txt")],
+    'skype_video': [jn("SkypeVideoCall15min.txt"),
+                    jn("SkypeVideoCall1min.txt")],
+    'spotify_music': [jn("Spotify5min.txt")],
+    'spotify_online': [jn("Spotify10min_online_singlesong.txt")],
+    'spotify_offline': [jn("Spotify5min_offline_singlesong.txt")],
+}
+
+prepare_data(training_paths, testing_paths, "n8ta", "data")
