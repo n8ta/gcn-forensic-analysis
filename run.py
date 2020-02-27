@@ -98,7 +98,7 @@ validation_data = ([X, A], y, val_mask)
 model.fit([X, A],
           y,
           sample_weight=train_mask,
-          epochs=800,
+          epochs=300,
           batch_size=N,
           validation_data=validation_data,
           shuffle=False)  # Shuffling data means shuffling the whole graph
@@ -108,37 +108,5 @@ eval_results = model.evaluate([X, A],
                               y,
                               sample_weight=test_mask,
                               batch_size=N)
-print('Done.\n'
-      'Test loss: {}\n'
-      'Test accuracy: {}'.format(*eval_results))
 
-# # model = models.Sequential()
-# # model.add(layers.Dense(400, activation='relu', input_shape=(number_of_features,)))
-# # model.add(layers.Dense(400, activation='relu'))
-# # model.add(layers.Dense(400, activation='relu'))
-# # model.add(layers.Dense(number_of_categories, activation='relu'))
-# # model.add(layers.Dense(number_of_categories, activation='softmax'))
-#
-# model.compile(optimizer='rmsprop',
-#               loss='categorical_crossentropy',
-#               weighted_metrics=['acc'])
-#
-# validation_data = ([X, A], training_labels + x_testing_labels, x_validation_mask)
-#
-# model.fit([X, A],
-#           y,
-#           sample_weight=x_training_mask,
-#           epochs=100,
-#           batch_size=num_nodes,
-#           validation_data=validation_data,
-#           shuffle=False)  # Shuffling data means shuffling the whole graph
-#
-# print("\n\n----------------------------\n")
-#
-# results = model.evaluate(x_testing_features, x_testing_labels)
-#
-# prediction = model.predict(x_testing_features[len(x_testing_features) - 2:len(x_testing_features) - 1])
-# print("prediction: \n{}".format(prediction))
-# print(model.metrics_names)
-# print(results)
-# x = 1
+print('Done.\nTest loss: {}\nTest accuracy: {}'.format(*eval_results))
