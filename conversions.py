@@ -1,8 +1,5 @@
-from graphviz import Source
-from pydot import graph_from_dot_file
-import collections
+import os
 import numpy as np
-from scipy import sparse
 from os.path import join
 import pickle
 import json
@@ -105,6 +102,9 @@ def prepare_data(training_paths, dataset_name, output_path):
 def jn(text):
     return join("our_data_txt", text)
 
+def join_f(folder,text):
+    return join(folder, text)
+
 
 training_paths = {
     'filezilla': [jn("FileZilla10MB_joker.txt"),
@@ -140,4 +140,9 @@ training_paths = {
     'spotify_offline': [jn("Spotify1min_offline_singlesong.txt"), jn("Spotify5min_offline_singlesong.txt")],
 }
 
-prepare_data(training_paths, "n8ta", "data")
+spot_paths = {
+    'spotify_online': [join_f("spotonline",x) for x in os.listdir("spotonline")],
+    'spotify_offline': [join_f("spotoff",x) for x in os.listdir("spotoff")]
+}
+
+prepare_data(spot_paths, "testing", "data")
