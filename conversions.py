@@ -90,8 +90,7 @@ def prepare_data(training_paths, dataset_name, output_path):
                              training_feature_vec,
                              training_node_indices)
 
-    # Dump in pickle format
-    adjacency_matrix = sparse.csr_matrix(adjacency_matrix)
+    # Dump in pickle formatodel =
     pickle.dump(adjacency_matrix, open(join(output_path, "{}.graph".format(dataset_name)), 'wb'))
     pickle.dump(training_feature_vec, open(join(output_path, "{}.x.features".format(dataset_name)), 'wb'))
     pickle.dump(training_labels, open(join(output_path, "{}.y.labels".format(dataset_name)), 'wb'))
