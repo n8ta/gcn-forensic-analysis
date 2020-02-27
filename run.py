@@ -6,7 +6,8 @@ from spektral.layers import GraphConv
 from spektral import utils
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dropout
-
+import tensorflow
+import matplotlib.pyplot as plt
 
 def prep(name):
     names = ["{}.graph".format(name), "{}.x.features".format(name), "{}.y.labels".format(name)]
@@ -55,28 +56,29 @@ X_in = Input(shape=(F,))  # Input layer for X
 A_in = Input((None,), sparse=True)  # Input layer for A
 
 graph_conv_1 = GraphConv(A.shape[0], activation='relu')([X_in, A_in])
-graph_conv_2 = GraphConv(A.shape[0], activation='relu')([graph_conv_1, A_in])
-graph_conv_3 = GraphConv(A.shape[0], activation='relu')([graph_conv_2, A_in])
-graph_conv_4 = GraphConv(A.shape[0], activation='relu')([graph_conv_3, A_in])
-graph_conv_5 = GraphConv(A.shape[0], activation='relu')([graph_conv_4, A_in])
-dropout = Dropout(0.5)(graph_conv_5)
+# graph_conv_2 = GraphConv(A.shape[0], activation='relu')([graph_conv_1, A_in])
+# graph_conv_3 = GraphConv(A.shape[0], activation='relu')([graph_conv_2, A_in])
+# graph_conv_4 = GraphConv(A.shape[0], activation='relu')([graph_conv_3, A_in])
+# graph_conv_5 = GraphConv(A.shape[0], activation='relu')([graph_conv_4, A_in])
+dropout = Dropout(0.5)(graph_conv_1)
 graph_conv_6 = GraphConv(n_classes, activation='softmax')([dropout, A_in])
+graph_conv_7 = GraphConv(n_classes, activation='softmax')([graph_conv_6, A_in])
 
 # Build model
-model = Model(inputs=[X_in, A_in], outputs=graph_conv_6)
+model = Model(inputs=[X_in, A_in], outputs=graph_conv_7)
 
 A = utils.localpooling_filter(A).astype('f4')
 model.compile(optimizer='rmsprop', loss='categorical_crossentropy', weighted_metrics=['acc'])
 
 model.summary()
 validation_data = ([X, A], y, val_mask)
-model.fit([X, A],
-          y,
-          sample_weight=train_mask,
-          epochs=100,
-          batch_size=N,
-          validation_data=validation_data,
-          shuffle=False)
+history = model.fit([X, A],
+                    y,
+                    sample_weight=train_mask,
+                    epochs=400,
+                    batch_size=N,
+                    validation_data=validation_data,
+                    shuffle=False)
 
 # Evaluate model
 eval_results = model.evaluate([X, A],
@@ -84,10 +86,20 @@ eval_results = model.evaluate([X, A],
                               sample_weight=test_mask,
                               batch_size=N)
 
-Anew, Xnew, _, _, _, _ = prep("testing")
-Anew = utils.localpooling_filter(Anew).astype('f4')
-out = model.predict([Xnew, Anew], batch_size=Anew.shape[0])
+# Anew, Xnew, _, _, _, _ = prep("testing")
+# Anew = utils.localpooling_filter(Anew).astype('f4')
+# out = model.predict([Xnew, Anew], batch_size=Anew.shape[0])
+# x=1
 
-
+acc = history.history['acc']
+val_acc = history.history['val_acc']
+epochs = range(1, len(acc) + 1)
+plt.plot(epochs, acc, 'bo', label='Training acc')
+plt.plot(epochs, val_acc, 'b', label='Validation acc')
+plt.title('Training and validation accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('acc')
+plt.legend()
+plt.show()
 
 print('Done.\nTest loss: {}\nTest accuracy: {}'.format(*eval_results))

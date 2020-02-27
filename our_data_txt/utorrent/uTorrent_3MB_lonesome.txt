@@ -1,0 +1,1087 @@
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ks33748.kimsufi.com:51413","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 178.245.158.117:6881","callstack":"TdwFo"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 195-154-33-83.rev.poneytelecom.eu:54069","callstack":"TdwFo"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; wnpgmb016qw-ppp-25-188.dynamic.bellmts.net:56827","callstack":"TdwFo"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; hosted.by.seedbox.io:28191","callstack":"TdwFo"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56785 -\u0026gt; bt2.us.archive.org:6969","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56785 -\u0026gt; bt2.us.archive.org:6969","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56785 -\u0026gt; bt2.us.archive.org:6969","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"Pbewy"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; adsl-ull-116-232.51-151.wind.it:6881","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 89-79-111-59.dynamic.chello.pl:6881","callstack":"Yeqtu"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; catv-80-98-232-169.catv.broadband.hu:65111","callstack":"nGJQP"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56784 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; net116.233.188-185.ertelecom.ru:30272","callstack":"Yeqtu"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; wnpgmb016qw-ppp-25-188.dynamic.bellmts.net:56827","callstack":"nGJQP"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"0e/uB"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56785 -\u0026gt; bt2.us.archive.org:6969","callstack":"AyVmx"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; catv-86-101-214-249.catv.broadband.hu:33799","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; host-109-89-199-168.dynamic.voo.be:6881","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 222.77.238.121.broad.nt.js.dynamic.163data.com.cn:1201","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; i15-les03-ix2-176-180-6-118.dsl.dyn.abo.bbox.fr:6889","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 2.93.252.125:49001","callstack":"H5Rb6"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56783 -\u0026gt; www.archive.org:https","callstack":"U1U1F"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; hosted.by.seedbox.io:28191","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; static.92.25.0.81.ibercom.com:48177","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 176.107.100.111:57132","callstack":"H5Rb6"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"c2dR7"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 178.245.158.117:6881","callstack":"su22G"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; host-109-89-199-168.dynamic.voo.be:6881","callstack":"EXTx9"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ppp108-90.static.internode.on.net:51413","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 160.45.136.88.rev.sfr.net:15250","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; n122-111-108-50.meb3.vic.optusnet.com.au:8999","callstack":"H5Rb6"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; i15-les03-ix2-176-180-6-118.dsl.dyn.abo.bbox.fr:6889","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; cpc152103-haye27-2-0-cust131.17-4.cable.virginm.net:6882","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 75-162-250-198.desm.qwest.net:51413","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; fa.7b.d1c4.cidr.airmail.net:6889","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 180.87.201.156:37563","callstack":"H5Rb6"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; catv-86-101-214-249.catv.broadband.hu:33799","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 02d9fb0a.bb.sky.com:6881","callstack":"H5Rb6"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"5valE"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 2.93.252.125:49001","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 80.237.123.123:8621","callstack":"H5Rb6"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 75-162-250-198.desm.qwest.net:51413","callstack":"su22G"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 222.77.238.121.broad.nt.js.dynamic.163data.com.cn:1201","callstack":"EXTx9"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 47.96.72.93:38484","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 94-26-178-197.arbital.ru:6881","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; modemcable018.244-172-144.mc.videotron.ca:6881","callstack":"H5Rb6"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 112.50.145.142:8665","callstack":"H5Rb6"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 160.45.136.88.rev.sfr.net:15250","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56786 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 94-26-178-197.arbital.ru:6881","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 124.106.87.50:50321","callstack":"H5Rb6"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ppp108-90.static.internode.on.net:51413","callstack":"Yeqtu"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"5valE"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 109.120.229.73:8621","callstack":"H5Rb6"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 180.87.201.156:37563","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-13-58-27-33.us-east-2.compute.amazonaws.com:6881","callstack":"H5Rb6"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 47.96.72.93:38484","callstack":"su22G"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56788 -\u0026gt; ia802501.us.archive.org:https","callstack":"LgCCc"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; cpc152103-haye27-2-0-cust131.17-4.cable.virginm.net:6882","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"qiDpS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"qiDpS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"qiDpS"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 146.97.203.161:53906","callstack":"qiDpS"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; m213-103-14-39.cust.tele2.lt:5270","callstack":"qiDpS"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"/SKzS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"/SKzS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"HbTXl"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56793 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"EbrAI"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"HbTXl"}
+{"eventName":"TCP Accept","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:56793","callstack":"UnLlw"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC:56794 -\u0026gt; KevinChan-PC:64908","callstack":"EbrAI"}
+{"eventName":"TCP Accept","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:56794","callstack":"UnLlw"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 146.97.203.161:53906","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; m213-103-14-39.cust.tele2.lt:5270","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 23-116-80-163.lightspeed.rcsntx.sbcglobal.net:22428","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 24.49.80.241:39328","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 90.53.147.117:39398","callstack":"HbTXl"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 157.66.213.243:56554","callstack":"HbTXl"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 119.24.64.223.static.js.chinamobile.com:7920","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"m9bXW"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"m9bXW"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"HbTXl"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:56793","callstack":"ii/2u"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56793 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"fgXNP"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"HbTXl"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:56794","callstack":"ii/2u"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:56794 -\u0026gt; KevinChan-PC:64908","callstack":"fgXNP"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"O52XS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"O52XS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"HbTXl"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"HbTXl"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"fyP3F"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"fyP3F"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"O52XS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"l+iP+"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"O52XS"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:64908","callstack":"l+iP+"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; KevinChan-PC.attlocal.net:56793","callstack":"mrpSu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56793 -\u0026gt; KevinChan-PC.attlocal.net:64908","callstack":"k7gLe"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC:64908 -\u0026gt; KevinChan-PC:56794","callstack":"mrpSu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC:56794 -\u0026gt; KevinChan-PC:64908","callstack":"k7gLe"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56789 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"5valE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"j7wHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"Iua0b"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56792 -\u0026gt; bt1.us.archive.org:6969","callstack":"5valE"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"5valE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"j7wHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"Iua0b"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56792 -\u0026gt; bt1.us.archive.org:6969","callstack":"Pbewy"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56803 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"0e/uB"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"5valE"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"HQydM"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"WFUHW"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"0e/uB"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"0e/uB"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"HQydM"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"0e/uB"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56790 -\u0026gt; ia802501.us.archive.org:https","callstack":"LgCCc"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\updates\\3.5.5_45449.exe","callstack":"wnPWC"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"YQU5h"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"5valE"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56795 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"DJABv"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56804 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"IuVNu"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"c2dR7"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-13-58-27-33.us-east-2.compute.amazonaws.com:6881","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56806 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56805 -\u0026gt; ia802501.us.archive.org:https","callstack":"LgCCc"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"UfFXz"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 179.6.46.76:4533","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 78-3-98-105.adsl.net.t-com.hr:63356","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-18-188-31-0.us-east-2.compute.amazonaws.com:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 120.28.52.18:50321","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; mta-76-92-52-18.natcky.rr.com:6882","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 192.188.52.18:1029","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-18-223-137-220.us-east-2.compute.amazonaws.com:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; p57A61EA3.dip0.t-ipconnect.de:6346","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; host-92-4-0-83.as43234.net:6882","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 116.212.128.83:50321","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-35-155-156-153.us-west-2.compute.amazonaws.com:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; vmi308179.contaboserver.net:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 208.103.122.169:5000","callstack":"MgA9I"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56795 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"DJABv"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56795 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"d6HSJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"j7wHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"Iua0b"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"VYnO8"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"5valE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\fwpolicyiomgr.dll","callstack":"/a1sW"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; vmi308179.contaboserver.net:6881","callstack":"su22G"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"WFUHW"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"0e/uB"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56809 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56792 -\u0026gt; bt1.us.archive.org:6969","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56792 -\u0026gt; bt1.us.archive.org:6969","callstack":"0e/uB"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"HQydM"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"VYnO8"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56792 -\u0026gt; bt1.us.archive.org:6969","callstack":"AyVmx"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"YQU5h"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"R1FRk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"X+JV3"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"qTPO1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"ai8ng"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"izwiD"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"YQU5h"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"R1FRk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"X+JV3"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"qTPO1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"ai8ng"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"izwiD"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"YQU5h"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"R1FRk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"X+JV3"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues","callstack":"KzBGz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"qTPO1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"ai8ng"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"izwiD"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"YQU5h"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"mg7HF"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-18-188-31-0.us-east-2.compute.amazonaws.com:6881","callstack":"su22G"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-35-155-156-153.us-west-2.compute.amazonaws.com:6881","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"V8J+t"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"nsgic"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56810 -\u0026gt; ia802501.us.archive.org:https","callstack":"LgCCc"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"5valE"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56812 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"5valE"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"OKHKA"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 24-159-61-221.dhcp.jcsn.tn.charter.com:47625","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; c-98-248-124-79.hsd1.ca.comcast.net:50321","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 176-23-73-156-cable.dk.customer.tdc.net:1024","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; softbank126060039030.bbtec.net:16994","callstack":"MgA9I"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"HQydM"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 185.239.116.125:49001","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; cable-178-148-83-95.dynamic.sbb.rs:40500","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-18-190-61-127.us-east-2.compute.amazonaws.com:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 83.218.108.233:8621","callstack":"MgA9I"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; static.belong.com.au:54647","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; CPE54a65ceb72ee-CM54a65ceb72ec.cpe.net.cable.rogers.com:8999","callstack":"MgA9I"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"KH1dP"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56814 -\u0026gt; ia902501.us.archive.org:http","callstack":"LgCCc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\Transcode\\ffmpeg.exe","callstack":"gryTM"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; CPE54a65ceb72ee-CM54a65ceb72ec.cpe.net.cable.rogers.com:8999","callstack":"su22G"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 146.97.203.161:53906","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 90.53.147.117:39398","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 108-208-101-16.lightspeed.cicril.sbcglobal.net:64908","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 24.49.80.241:39328","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 157.66.213.243:56554","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; m213-103-14-39.cust.tele2.lt:5270","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 23-116-80-163.lightspeed.rcsntx.sbcglobal.net:22428","callstack":"HbTXl"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 119.24.64.223.static.js.chinamobile.com:7920","callstack":"HbTXl"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56800 -\u0026gt; 90.53.147.117:39398","callstack":"DjcZe"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; c-98-248-124-79.hsd1.ca.comcast.net:50321","callstack":"su22G"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56801 -\u0026gt; 157.66.213.243:56554","callstack":"8ambG"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56796 -\u0026gt; 146.97.203.161:53906","callstack":"8ambG"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56799 -\u0026gt; 24.49.80.241:39328","callstack":"8ambG"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56802 -\u0026gt; 119.24.64.223.static.js.chinamobile.com:7920","callstack":"DjcZe"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56797 -\u0026gt; m213-103-14-39.cust.tele2.lt:5270","callstack":"DjcZe"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; softbank126060039030.bbtec.net:16994","callstack":"su22G"}
+{"eventName":"TCP Reconnect","filePath":"KevinChan-PC.attlocal.net:56798 -\u0026gt; 23-116-80-163.lightspeed.rcsntx.sbcglobal.net:22428","callstack":"g8smJ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; static.belong.com.au:54647","callstack":"su22G"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56797 -\u0026gt; m213-103-14-39.cust.tele2.lt:5270","callstack":"5valE"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"jtr/n"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 24-159-61-221.dhcp.jcsn.tn.charter.com:47625","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-18-190-61-127.us-east-2.compute.amazonaws.com:6881","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 197-114-138-186.fibertel.com.ar:39792","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; ec2-54-194-137-170.eu-west-1.compute.amazonaws.com:6882","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 42.249.187.10:39808","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 223.96.207.7:24619","callstack":"MgA9I"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 223.96.207.7:24619","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 42.249.187.10:39808","callstack":"su22G"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"x3Hsd"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"KH1dP"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56813 -\u0026gt; ia802501.us.archive.org:https","callstack":"LgCCc"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 105.107.66.81:8037","callstack":"MgA9I"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"qoZXu"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 196.156.62.238:5584","callstack":"MgA9I"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"k83RL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3.!ut","callstack":"eqVoE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png.!ut","callstack":"eqVoE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml.!ut","callstack":"eqVoE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg.!ut","callstack":"eqVoE"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC:61969 -\u0026gt; KevinChan-PC:49956","callstack":"fgXNP"}
+{"eventName":"UDP Receive","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 195-154-33-83.rev.poneytelecom.eu:54069","callstack":"su22G"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"j7wHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"Iua0b"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 79-124-184-178.pppoe.irtel.ru:6881","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 106.200.188.79:5971","callstack":"MgA9I"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:64908 -\u0026gt; 192.83.36.249:31314","callstack":"qiDpS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"wu4Uy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.mp3","callstack":"7uQrd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"wu4Uy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins--Lonesome_Road_Blues.png","callstack":"7uQrd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"wu4Uy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\Sam_Collins-Lonesome_Road_Blues_meta.xml","callstack":"7uQrd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"wu4Uy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\Torrents\\Sam_Collins-Lonesome_Road_Blues\\__ia_thumb.jpg","callstack":"7uQrd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"j7wHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\helper","callstack":"Iua0b"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56816 -\u0026gt; ec2-54-235-208-27.compute-1.amazonaws.com:http","callstack":"5valE"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56816 -\u0026gt; ec2-54-235-208-27.compute-1.amazonaws.com:http","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56816 -\u0026gt; ec2-54-235-208-27.compute-1.amazonaws.com:http","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56816 -\u0026gt; ec2-54-235-208-27.compute-1.amazonaws.com:http","callstack":"cBVaC"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56816 -\u0026gt; ec2-54-235-208-27.compute-1.amazonaws.com:http","callstack":"AyVmx"}
+{"eventName":"TCP Connect","filePath":"KevinChan-PC.attlocal.net:56817 -\u0026gt; bt2.us.archive.org:6969","callstack":"5valE"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:56817 -\u0026gt; bt2.us.archive.org:6969","callstack":"Pbewy"}
+{"eventName":"TCP TCPCopy","filePath":"KevinChan-PC.attlocal.net:56817 -\u0026gt; bt2.us.archive.org:6969","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:56817 -\u0026gt; bt2.us.archive.org:6969","callstack":"OKHKA"}
+{"eventName":"TCP Disconnect","filePath":"KevinChan-PC.attlocal.net:56817 -\u0026gt; bt2.us.archive.org:6969","callstack":"AyVmx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\uTorrent\\Transcode\\ffmpeg.exe","callstack":"gryTM"}

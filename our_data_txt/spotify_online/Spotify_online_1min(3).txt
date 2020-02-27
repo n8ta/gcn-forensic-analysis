@@ -1,0 +1,251 @@
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"5jHwA"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Kevin Chan\\Downloads","callstack":"yIKRz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"NlM7v"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Kevin Chan\\Downloads","callstack":"yIKRz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor","callstack":"OzCTS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\FileZilla","callstack":"OzCTS"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\other","callstack":"OzCTS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Skype","callstack":"OzCTS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\Spotify","callstack":"OzCTS"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\uTorrent","callstack":"OzCTS"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"5gieM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"EbLMM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"X5/yJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"Hd2qj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"pHrLK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"jtka3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Downloads\\ProcessMonitor\\WinSCP","callstack":"OzCTS"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; Brandons-MBP.attlocal.net:5353","callstack":"haDb2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"D2Ein"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"oeXQK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"YLHsM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user","callstack":"w9hAr"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:57621 -\u0026gt; 192.168.1.255:57621","callstack":"X1T2u"}
+{"eventName":"UDP Receive","filePath":"192.168.1.255:57621 -\u0026gt; KevinChan-PC.attlocal.net:57621","callstack":"KPQiN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"UDP Receive","filePath":"192.168.1.255:57621 -\u0026gt; Allisons-MBP.attlocal.net:57621","callstack":"haDb2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:63923 -\u0026gt; 47.224.186.35.bc.googleusercontent.com:https","callstack":"WFUHW"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:63923 -\u0026gt; 47.224.186.35.bc.googleusercontent.com:https","callstack":"x3Hsd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"UDP Receive","filePath":"192.168.1.255:57621 -\u0026gt; Brandons-MBP.attlocal.net:57621","callstack":"haDb2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"D2Ein"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"oeXQK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user\\pending-messages.tmp","callstack":"YLHsM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalState\\Spotify\\Users\\12185952672-user","callstack":"w9hAr"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"UDP Send","filePath":"KevinChan-PC.attlocal.net:57621 -\u0026gt; 192.168.1.255:57621","callstack":"X1T2u"}
+{"eventName":"UDP Receive","filePath":"192.168.1.255:57621 -\u0026gt; KevinChan-PC.attlocal.net:57621","callstack":"KPQiN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.attlocal.net:63923 -\u0026gt; 47.224.186.35.bc.googleusercontent.com:https","callstack":"WFUHW"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.attlocal.net:63923 -\u0026gt; 47.224.186.35.bc.googleusercontent.com:https","callstack":"HQydM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\LocalCache\\Spotify\\Data\\2f\\2f0d17bc1574e47d8da8ca860e79c4e6ed45b30f.file","callstack":"KPCdK"}
+{"eventName":"ReadFile","filePath":"C:\\$ConvertToNonresident","callstack":"vWUpN"}

@@ -1,0 +1,1047 @@
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers\\10mb.txt","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Send","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"TCP Receive","filePath":"KevinChan-PC.wireless.northwestern.private:58659 -\u0026gt; madhatter.ece.northwestern.edu:ssh","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"47DEQ"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"47DEQ"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"47DEQ"}
