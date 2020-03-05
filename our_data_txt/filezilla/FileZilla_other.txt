@@ -1,0 +1,1218 @@
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe.Local","callstack":"hKvzT"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.17763.1039_en-us_f47b5f357ff2a20e","callstack":"CSe05"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.17763.1039_en-us_f47b5f357ff2a20e\\comctl32.dll.mui","callstack":"hIXCZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.17763.1039_en-us_f47b5f357ff2a20e\\comctl32.dll.mui","callstack":"05BUB"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Df/PA"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"/J1Pu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"UnBBl"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"irP4/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msctf.dll","callstack":"m3ZWl"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"qhoVG"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"hA2fO"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"YEH8n"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Py/y2"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"p5Va3"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"X1HwH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla","callstack":"fJPst"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_lock16x16.png","callstack":"Bej0A"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_lock16x16.png","callstack":"YgJU5"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_lock16x16.png","callstack":"lDWTd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_lock16x16.png","callstack":"bLGZv"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_lock16x16.png","callstack":"I76bN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rWRu0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"acO+p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"j8LlZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"8zytk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"oj7KL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"FKse1"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"gfqOk"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"PpqMv"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"kO+zN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6fKfU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bU9sJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"TtbBu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"0Us1C"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"zCGUD"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"wSzfU"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"pOlfL"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QBpX0"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"3byac"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"aY2fB"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"E1pZP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"9vUB6"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"H+ilY"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"U1NWE"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"IYXGm"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"f0mr9"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"VlbaL"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Litn5"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libfilezilla-3.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libfilezilla-3.dll","callstack":"Wl7r3"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Northwestern\\Junior_Year\\EECS 340\\Project 2","callstack":"AmRWJ"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libfilezilla-3.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"H/nhi"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libfilezilla-3.dll","callstack":"TeOEJ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"7dclm"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"AF1G9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe","callstack":"++nNW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"dw6Co"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"4Ezch"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"sBimP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QH0Og"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"MqDeV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"y9R8B"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"fy+tF"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"nejUy"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"xyjg/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"15jKT"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"uMuBk"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"nDvgg"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"1LcDg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"/C6IM"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"tNFTI"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"lJgiY"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"u8GCL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"VF3Ry"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"Z15nq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"2pXhC"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"frVqb"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"fiMAT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Q4Hxr"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"HCcmc"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"8uz6k"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"0bWlF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Tw1iv"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"lYv/T"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"0P4uG"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"S5rX3"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"O2L/S"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"jyvJL"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"qgMV1"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"tQfST"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"JAHpU"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"wYwZq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"BlgD6"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"2p7kj"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"C+CGr"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\file:\\C%3a\\Program%20Files\\FileZilla%20FTP%20Client\\resources\\xrc\\dialogs.xrc","callstack":"T3SXp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"4UvE/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"1uEv2"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"muOq6"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc","callstack":"B+V5w"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc","callstack":"Ng8l7"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"nF5M9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"MruYJ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"TC+9O"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"mN2tX"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"6nMPW"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"LUObm"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"u2Y1k"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"lYZma"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"xwTNe"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"UuR7V"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"2AJa8"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"3wElf"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"ZZgwT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"1Zf2s"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"gb4QF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"x6ebn"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"i+9pg"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"uZX22"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\dialogs.xrc","callstack":"Jp2lE"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"O+y4e"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\file:\\C%3a\\Program%20Files\\FileZilla%20FTP%20Client\\resources\\xrc\\storj.xrc","callstack":"6CZn9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc","callstack":"6QBfZ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc","callstack":"S2fcw"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"WblJ9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"7eWyn"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"bBeOs"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"cSsn1"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"iXgD3"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"qnmli"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"hfQlj"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\resources\\xrc\\storj.xrc","callstack":"9ZtgI"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"HVy8D"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"kFLTh"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Z+Al+"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Fj24K"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Yka4c"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"3ixd3"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"+q9J/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"SKdTp"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"GCEOr"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"ww/72"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"a3ufj"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"8vi9T"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"uJyuc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"cbBEz"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"84sOd"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"WUS15"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"DaWis"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"FU2NZ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"b6s3j"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"7Vok3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"OIzBl"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"y05OT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"phQga"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"1pWcG"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"m8cb0"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"udiW0"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"clIgA"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"wZ00F"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"d3Sd4"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"SYbip"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"KmR2W"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"U0Q5i"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"lUN1X"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"taKTW"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"eFb4T"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"KXw+k"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"2Qyjs"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"b69XM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"u4IWf"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"PryXa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\desktop.ini","callstack":"CxupS"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\desktop.ini","callstack":"FIF0U"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"/MEgw"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"KgeyN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\desktop.ini","callstack":"FSoPz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\desktop.ini","callstack":"F2F8H"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"jt1CV"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"4INVW"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"3WslB"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"hEyyK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"9pjPA"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"5YZRz"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"eLa6x"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"ueHHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"ZB8E9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"UzKd0"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Autodesk Fusion 360.lnk","callstack":"dnzuG"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Autodesk Fusion 360.lnk","callstack":"q6nN3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Autodesk Fusion 360.lnk","callstack":"Of1S9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\LINKINFO.dll","callstack":"4V0go"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\linkinfo.dll","callstack":"4V0go"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\linkinfo.dll","callstack":"u2y9w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"fuVw1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\windows.storage.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\windows.storage.dll","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"Kf7gx"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"R2IlB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\propsys.dll","callstack":"KIbE2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"sSihR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"2gkSj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\FusionLauncher.exe","callstack":"x9jpb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"/o7PR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\FusionLauncher.exe","callstack":"q85a9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\FusionLauncher.exe.Config","callstack":"DNM6g"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"m6CFM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"FLh1Q"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"XE+X+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"oUXIw"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"QJ++i"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"YjiVk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"0gNO4"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"/+mtP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"qVfBY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"43o6b"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"qVfBY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Autodesk\\webdeploy\\production\\6a0c9611291d45bb9226980209917c3d\\Fusion360.ico","callstack":"43o6b"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"d/10Z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"AZBMg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"d/10Z"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"eLa6x"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"ueHHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"ZB8E9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"UzKd0"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Cheat Engine.lnk","callstack":"dnzuG"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Cheat Engine.lnk","callstack":"q6nN3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\Cheat Engine.lnk","callstack":"Of1S9"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"hToSI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\desktop.ini","callstack":"HTgem"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\desktop.ini","callstack":"f4eyT"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"x9jpb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"/o7PR"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"q85a9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe.Config","callstack":"DNM6g"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"lI4cd"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"KgTBd"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"YgzDo"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\Cheat Engine 6.7\\Cheat Engine.exe","callstack":"9BSg5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"d/10Z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"AZBMg"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_32.db","callstack":"5T5Nm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"d/10Z"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\windows.storage.dll","callstack":"1iaT0"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe.Local","callstack":"1GCWp"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021","callstack":"8V/+5"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files","callstack":"AkFLC"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\notepad.exe","callstack":"/S3sX"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\notepad.exe","callstack":"7X+Vt"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"FlFBF"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"JJola"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"vFQZZ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"yp1KT"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"ZffXB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"59pqd"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"5syxo"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"w29cz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"SCO6j"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"C66i5"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"uar7b"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"h05Sn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"VBnH5"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"tlSU7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"ZJKKy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"ppPfZ"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"eLa6x"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"ueHHn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"ZB8E9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"UzKd0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\notepad.exe","callstack":"MysNx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"jt1CV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"4INVW"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"xX9Ql"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"3lLS5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"t63j6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"0yRDO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"beTSP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6f4ti"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"L4dY5"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"9Mdv2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msftedit.dll","callstack":"qyeuS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"XlKoc"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"c9e7e"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"x/gre"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"WUXCz"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"qUF8I"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"VYci2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"Ljqc9"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"kYXsL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820551985240","callstack":"Z43hO"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820551985240","callstack":"ODKdO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"wuHoU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\combase.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\combase.dll","callstack":"EBt4g"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"nu51u"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\edputil.dll","callstack":"X9BTq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\edputil.dll","callstack":"rju43"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"oZaB2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\DataExchange.dll","callstack":"6jveZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\DataExchange.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\DataExchange.dll","callstack":"2p4g5"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"fJ1l8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"5jwqI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"8bNqP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\ole32.dll","callstack":"7p0Iz"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"iACn4"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"tkPxc"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"ag4jW"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"EOs2S"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"xZzX5"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"QMoCE"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Z4gri"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Northwestern\\Junior_Year\\EECS 340\\Project 2","callstack":"AmRWJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820551985240","callstack":"AWwAb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe","callstack":"++nNW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"Z15nq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"8Aa7W"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"JOdgJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"Sp2U4"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"TYW1J"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"CUIp8"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Tkm0L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla","callstack":"SvxvT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_file32x32.png","callstack":"oGwf2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_file32x32.png","callstack":"vtz4S"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_file32x32.png","callstack":"5V/4l"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_file32x32.png","callstack":"Xge5U"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"9s8OZ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libfilezilla-3.dll","callstack":"vecUA"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"6f7Ny"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"F4lvl"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"SsVAe"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"6fqHC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"N7zRS"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla","callstack":"kujTc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_download16x16.png","callstack":"u/hPG"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_download16x16.png","callstack":"0S9qM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_download16x16.png","callstack":"jn6Lb"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_download16x16.png","callstack":"OfD1j"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla","callstack":"CglC6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_downloadadd16x16.png","callstack":"ol4Az"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_downloadadd16x16.png","callstack":"HMkRV"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_downloadadd16x16.png","callstack":"36QJc"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\FileZilla\\default_downloadadd16x16.png","callstack":"VasOx"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"jw37m"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"K9G3a"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"xEN2H"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"DKNpb"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"cFOoK"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"aESXt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"VjGA7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"F1JgT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"GG2gX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"cioic"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"eXi1p"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"OK9YG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"9g9hC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"/re2L"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"JzWhz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"FiUnO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"SgnbD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"kr9wo"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"A1zSU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"NSege"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"ENJPV"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"Sc9bQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"EBTri"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"aSosP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"X9BCa"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"Uctbi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"dHFjm"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"1ExWL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"1+JIZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"sI1OC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"sUQAe"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"xVgHt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"kou81"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"fVclc"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"ylezc"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"f3eQO"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\DUser.dll","callstack":"c/2mK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"c/2mK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"OXORz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"GzdRv"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"timQR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"Kpt5I"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"44BE0"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"mlh3Y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"5M7TL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"I1Qex"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"kQSjl"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"ncUeW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"pyHM8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"2YYp4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"qN3Sz"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\duser.dll.mui","callstack":"oDLUI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\atlthunk.dll","callstack":"JsE2p"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\atlthunk.dll","callstack":"Fsxf8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\atlthunk.dll","callstack":"s1s75"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\atlthunk.dll","callstack":"T+Fno"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"M2xNW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"qDj3Z"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\duser.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"Dkrpo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"uGDZd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"Vbz77"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"a2oAI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SxL5d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"/J6hJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QIvTF"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"nGW88"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"dlZYq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"I1Qex"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"kQSjl"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"uGDZd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"Vbz77"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"a2oAI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SxL5d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"/J6hJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QIvTF"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"DfIQQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"PdyY5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"+8b1j"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"+gyWp"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"RjniF"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"TBxzS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"M03qR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"I3T5d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"K3cn8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"292MG"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"Bu5QQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"2GOJT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"3lLS5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"t63j6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"0yRDO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"beTSP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6f4ti"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"L4dY5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"u8r6b"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"KChdj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"Oohfi"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"FN62w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"1v9KP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rMUTa"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"biQeu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"XF+1h"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\libstdc++-6.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"dTty0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"PpPeE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"HuU5N"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"Hd2DX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"snoSh"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"5gFvm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"KkUOO"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"tkOBS"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"3g6vL"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"vVmag"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"I1Qex"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\xmllite.dll","callstack":"kQSjl"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"10tDz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"5S/Vl"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"lW5XC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"j99Jd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"2nBxm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"9Xgao"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"vlQP6"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"WhUvA"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"waXMk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"O7hK2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"y2qCN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"8VWEf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"ruvbU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"LB8Xm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"l8DUp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"bvMvl"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"aVTse"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"35cKA"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"eCMMA"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"wb2m0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"iLQih"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"E6sDe"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"7iJpX"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"vggmH"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"M4kmx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"yWwxT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"gSHtt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"slH4Z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"D6549"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"i69PX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"gYt7w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"5xf6B"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"Xd5vI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"tWD1U"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"XyhSp"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"YOTBo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"quD6W"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"XxDV9"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"raGoM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"OW8U0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"yWwxT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"gSHtt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"slH4Z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"D6549"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"i69PX"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"dZ3Nc"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"jugFK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"o/nA6"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"aHAug"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"aZGqK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"Lqj6V"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"vf5N3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"W8qc/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"qy659"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"ev/2a"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_32.db","callstack":"ug+N8"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"l6f10"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"Jt3BA"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"PyBOt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rWRu0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"acO+p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"j8LlZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"8zytk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"oj7KL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"FKse1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"kO+zN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6fKfU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bU9sJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"TtbBu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"0Us1C"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"zCGUD"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QBpX0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"aY2fB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"9vUB6"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"dw6Co"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"4Ezch"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"QH0Og"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"MqDeV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"y9R8B"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"fy+tF"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"nejUy"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"xyjg/"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"15jKT"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"Xty1U"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla\\recentservers.xml~","callstack":"1LcDg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"/C6IM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Northwestern\\Junior_Year\\EECS 340\\Project 2","callstack":"AmRWJ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe","callstack":"++nNW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"Z15nq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"3lLS5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"t63j6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"0yRDO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"beTSP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6f4ti"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"L4dY5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"SvdFt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"rW5bt"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"A0pej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"bukw1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"6HXDE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Roaming\\FileZilla","callstack":"01EIS"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"c9e7e"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"x/gre"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"Ljqc9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820553552930","callstack":"Z43hO"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820553552930","callstack":"ODKdO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Northwestern\\Junior_Year\\EECS 340\\Project 2","callstack":"AmRWJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820553552930","callstack":"AWwAb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe","callstack":"++nNW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"Z15nq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"8Aa7W"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"JOdgJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"Sp2U4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"9s8OZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"F4lvl"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"N7zRS"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\desktop.ini","callstack":"kCr+8"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\desktop.ini","callstack":"/x1E6"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\desktop.ini","callstack":"tQQFQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\desktop.ini","callstack":"6rPsd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Desktop\\File Transfers","callstack":"/lJP1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"oYBXK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"jt1CV"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"0TuM4"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"x1Owq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"toxfs"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\desktop.ini","callstack":"COiTg"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\desktop.ini","callstack":"sjc+g"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"4INVW"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"yXjcg"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"qBRn0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"FajVq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"2KyBR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\DESKTOP.INI","callstack":"eBKVT"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\DESKTOP.INI","callstack":"YmJTB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"faH2l"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"FlFBF"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"JJola"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"vFQZZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"yp1KT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"ZffXB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"X2Q/R"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"pXfEJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"55FLJ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"2FJO7"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"VPLxM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"WAdAV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"C66i5"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_32.db","callstack":"9FA24"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"uar7b"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"h05Sn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"VBnH5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"tlSU7"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"D7DGb"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"5PyDw"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"wTr2A"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"yU+tN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"vQYoU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Data Sources\\FOLDER.ICO","callstack":"t3aR9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"ppPfZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_16.db","callstack":"de2Z4"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Music\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Music\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Music\\desktop.ini","callstack":"o3STS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Music","callstack":"o5+Qu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Music","callstack":"hjLbI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Music","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Music","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Music","callstack":"4wlE2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Music","callstack":"4wlE2"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Kevin Chan\\Music","callstack":"8AfTa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Music","callstack":"jLPsN"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"8Ze66"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"6f8yb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"ueHnS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"Y/4Yj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"nDL9d"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"zbRnc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"pJU2k"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Pictures\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Pictures\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Pictures\\desktop.ini","callstack":"o3STS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Pictures","callstack":"o5+Qu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Pictures","callstack":"hjLbI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Pictures","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Pictures","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Pictures","callstack":"4wlE2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Pictures","callstack":"4wlE2"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Kevin Chan\\Pictures","callstack":"8AfTa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Pictures","callstack":"jLPsN"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"8Ze66"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"6f8yb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"ueHnS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"Y/4Yj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"nDL9d"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"zbRnc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"pJU2k"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Videos\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Videos\\desktop.ini","callstack":"BXX+Y"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\Videos\\desktop.ini","callstack":"o3STS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Videos","callstack":"o5+Qu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Videos","callstack":"hjLbI"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Videos","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Videos","callstack":"PT9WH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Videos","callstack":"4wlE2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Videos","callstack":"4wlE2"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Kevin Chan\\Videos","callstack":"8AfTa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\My Videos","callstack":"jLPsN"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"8Ze66"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"6f8yb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"ueHnS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"Y/4Yj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"nDL9d"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"zbRnc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"pJU2k"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Desktop - Shortcut.lnk","callstack":"+Z5wY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Desktop - Shortcut.lnk","callstack":"JPhdR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Desktop - Shortcut.lnk","callstack":"3jvE3"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"LRCVj"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"eYOA/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"Mpkut"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents","callstack":"aAV0y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe","callstack":"zAGOk"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"1dHkk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"rrcM0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"RFKXL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"F8yTS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\imageres.dll","callstack":"zAGOk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\imageres.dll.mui","callstack":"P69EL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"I3KS1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\uxtheme.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.1039_none_de701650534c7021\\comctl32.dll","callstack":"h+vd2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"c9e7e"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzshellext_64.dll","callstack":"x/gre"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"Ljqc9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820554462490","callstack":"Z43hO"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp","callstack":"rcTbH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820554462490","callstack":"ODKdO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\Northwestern\\Junior_Year\\EECS 340\\Project 2","callstack":"AmRWJ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe","callstack":"++nNW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\AppData\\Local\\Temp\\fz3-15820554462490","callstack":"AWwAb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\apppatch\\sysmain.sdb","callstack":"Z15nq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\HpReg_Backup","callstack":"8Aa7W"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\HpReg_Backup","callstack":"JOdgJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Kevin Chan\\Documents\\HpReg_Backup","callstack":"fx+uF"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\filezilla.exe","callstack":"N7zRS"}

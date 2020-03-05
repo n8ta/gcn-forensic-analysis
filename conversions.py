@@ -45,7 +45,12 @@ def prepare_data(training_paths, dataset_name, output_path):
                 last_node = None
                 for line in file:
                     current_node = None
-                    filePath = json.loads(line)['filePath']
+                    try:
+                        filePath = json.loads(line)['filePath']
+                    except Exception:
+                        x=1
+
+
                     eventName = json.loads(line)['eventName']
                     if filePath + path + eventName in nodes.keys():
                         current_node = nodes[filePath + path + eventName]
@@ -136,8 +141,7 @@ training_paths = {
                        jn("Spotify5min_online_singlesong.txt"),
                        jn("Spotify10min_offline_singlesong.txt"),
                        jn("Spotify5min.txt"),
-                       jn("Spotify10min_online_singlesong.txt")
-                       ],
+                       jn("Spotify10min_online_singlesong.txt")],
     'spotify_offline': [jn("Spotify1min_offline_singlesong.txt"), jn("Spotify5min_offline_singlesong.txt")],
 }
 
