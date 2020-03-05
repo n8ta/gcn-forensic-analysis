@@ -8,7 +8,7 @@ CUTOFF = 0.2
 def condense_and_plot(adj, class_labels, class_names):
     # generate_graph(adj)
     num_classes = len(class_labels[0])
-    nodes_in_class = [list() for x in range(num_classes+1)]  # class_index => list of node index
+    nodes_in_class = [list() for x in range(num_classes)]  # class_index => list of node index
 
     G = nx.DiGraph()
     add_edges_to_graph(adj, G)
@@ -18,18 +18,19 @@ def condense_and_plot(adj, class_labels, class_names):
         max_value = max(class_labels[node_index])
         if max_value > CUTOFF:
             class_index = class_labels[node_index].index(max_value)
-            nodes_in_class[num_classes].append(node_index)
+            nodes_in_class[class_index].append(node_index)
 
     # Remove these nodes from the graph and add their edges to the super node
     for indx,nodes in enumerate(nodes_in_class):
-        print(indx)
-        print(class_names)
         super_node_name = class_names[indx]
         G.add_node(super_node_name)
         for node_index in nodes:
-            for out_edge in G.edges_iter(node_index):
-                G.add_edge((super_node_name, node_index))
-                G.remove_edge(out_edge)
+            for successor in G.successors(node_index):
+                G.add_edges_from([(super_node_name, successor)])
+            for predecessor in G.predecessors(node_index):
+                G.add_edges_from([(predecessor, super_node_name)])
+            G.remove_node(node_index)
+    x=1
 
 def generate_graph(adjacency_matrix, labels={}):
     G = nx.DiGraph()

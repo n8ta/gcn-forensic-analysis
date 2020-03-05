@@ -48,8 +48,7 @@ def prepare_data(training_paths, dataset_name, output_path):
                     try:
                         filePath = json.loads(line)['filePath']
                     except Exception:
-                        x=1
-
+                        x = 1
 
                     eventName = json.loads(line)['eventName']
                     if filePath + path + eventName in nodes.keys():
@@ -107,49 +106,14 @@ def prepare_data(training_paths, dataset_name, output_path):
 def jn(text):
     return join("our_data_txt", text)
 
-
-def join_f(folder, text):
-    return join(folder, text)
-
-
-training_paths = {
-    'filezilla': [jn("FileZilla10MB_joker.txt"),
-                  jn("FileZilla20MB_madhatter.txt"),
-                  jn("FileZilla50MB_joker.txt"),
-                  jn("FileZilla100MB_madhatter.txt"),
-                  jn("FileZilla10MB_madhatter.txt"),
-                  jn("FileZilla20MB_joker.txt"),
-                  jn("FileZilla50MB_madhatter.txt"),
-                  jn("FileZilla100MB_joker.txt")],
-    'winrar': [jn("winrar1.txt"),
-               jn("winrar2.txt"),
-               jn("winrar3.txt"),
-               jn("winrar4.txt")],
-    'skype_transfer':
-        [jn("SkypeFileTransfer10MB.txt"),
-         jn("SkypeFileTransfer50MB.txt"),
-         jn("SkypeFileTransfer20MB.txt"),
-         ],
-    'skype_video':
-        [jn("SkypeVideoCall10min.txt"),
-         jn("SkypeVideoCall20mins.txt"),
-         jn("SkypeVideoCall15min.txt"),
-         jn("SkypeVideoCall1min.txt")],
-    'spotify_online': [jn("Spotify10min.txt"),
-                       jn("Spotify1min.txt"),
-                       jn("Spotify1min_online_singlesong.txt"),
-                       jn("Spotify5min_online_singlesong.txt"),
-                       jn("Spotify10min_offline_singlesong.txt"),
-                       jn("Spotify5min.txt"),
-                       jn("Spotify10min_online_singlesong.txt")],
-    'spotify_offline': [jn("Spotify1min_offline_singlesong.txt"), jn("Spotify5min_offline_singlesong.txt")],
-}
-
 paths = {}
 for dir in os.listdir("our_data_txt"):
     if dir == ".DS_Store":
         continue
-    paths[dir] = [join("our_data_txt", dir, x) for x in os.listdir(join("our_data_txt",dir)) if x != ".DS_Store"]
-
+    paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
+                  i < 2 and x != ".DS_Store"]
+print(paths.keys())
+# paths = {'filezilla': [join("our_data_txt", 'filezilla', x) for x in os.listdir(join("our_data_txt",'filezilla')) if x != ".DS_Store"]}
+# print(paths)
 
 prepare_data(paths, "n8ta", "data")

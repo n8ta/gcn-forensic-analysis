@@ -78,7 +78,7 @@ validation_data = ([X, A], y, val_mask)
 history = model.fit([X, A],
                     y,
                     sample_weight=train_mask,
-                    epochs=1,
+                    epochs=30,
                     batch_size=N,
                     validation_data=validation_data,
                     shuffle=False)
@@ -102,18 +102,12 @@ eval_results = model.evaluate([X, A],
 
 print('Done.\nTest loss: {}\nTest accuracy: {}'.format(*eval_results))
 
-Anew, Xnew, _, _, _, _ = prep("testing")
+Anew, Xnew, _, _, _, _ = prep("filezilla_only")
 Anew_raw = Anew.toarray()  # array from of adj
 Anew = utils.localpooling_filter(Anew).astype('f4')
 out = model.predict([Xnew, Anew], batch_size=Anew.shape[0])
 
-
-trace_types = ['filezilla',
-'winrar',
-'skype_transfer',
-'skype_video',
-'spotify_online',
-'spotify_offline',
-'other']
+trace_types = ['utorrent', 'winrar', 'skype_file', 'winscp', 'spotify_online', 'filezilla', 'spotify_offline',
+               'skype_video']
 
 condense_and_plot(Anew_raw, out.tolist(), trace_types)
