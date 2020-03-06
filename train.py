@@ -32,9 +32,8 @@ graph_conv_8 = GraphConv(n_classes, activation='softmax')([graph_conv_6, A_in])
 model = Model(inputs=[X_in, A_in], outputs=graph_conv_8)
 
 A = utils.localpooling_filter(A).astype('f4')
-optimizer = Adam(lr=1/100)
 
-model.compile(optimizer=optimizer, loss='categorical_crossentropy', weighted_metrics=['acc'])
+model.compile(optimizer="rmsprop", loss='categorical_crossentropy', weighted_metrics=['acc'])
 model.summary()
 
 validation_data = ([X, A], y, val_mask)
