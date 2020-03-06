@@ -4,8 +4,9 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dropout
 from util import prep
 import tensorflow
+from tensorflow.keras.optimizers import Adam
 
-A, X, y, train_mask, val_mask, test_mask = prep("n8tax")
+A, X, y, train_mask, val_mask, test_mask = prep("n8ta_full")
 A_raw = A.toarray()
 
 N = A.shape[0]
@@ -29,9 +30,11 @@ graph_conv_8 = GraphConv(n_classes, activation='softmax')([graph_conv_7, A_in])
 model = Model(inputs=[X_in, A_in], outputs=graph_conv_8)
 
 A = utils.localpooling_filter(A).astype('f4')
-model.compile(optimizer='rmsprop', loss='categorical_crossentropy', weighted_metrics=['acc'])
+optimizer = Adam(lr=1/100)
 
+model.compile(optimizer=optimizer, loss='categorical_crossentropy', weighted_metrics=['acc'])
 model.summary()
+
 validation_data = ([X, A], y, val_mask)
 history = model.fit([X, A],
                     y,
@@ -39,14 +42,15 @@ history = model.fit([X, A],
                     epochs=800,
                     batch_size=N,
                     validation_data=validation_data,
-                    shuffle=False)
+                    shuffle=False,
+                    workers=8)
 
 # Evaluate model
 eval_results = model.evaluate([X, A],
                               y,
                               sample_weight=test_mask,
                               batch_size=N)
-tensorflow.saved_model.save(model,"trained")
+tensorflow.saved_model.save(model, "trained")
 
 # acc = history.history['acc']
 # val_acc = history.history['val_acc']
