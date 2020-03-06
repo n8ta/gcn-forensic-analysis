@@ -56,10 +56,15 @@ def size():
     return max(Node.event_count, Node.callstack_count)
 
 
-def prepare_data(training_paths, dataset_name, output_path):
+def prepare_data(training_paths, dataset_name, output_path, callstack_dict={}, event_dict={}, event_count=0, callstack_count=0):
     nodes = {}  # name -> node
     class_count = 0
     class_dict = {}
+
+    Node.callstack_to_index = callstack_dict
+    Node.event_to_index = event_dict
+    Node.callstack_count = callstack_count
+    Node.event_count = event_count
 
     for class_name in training_paths.keys():
         class_dict[class_name] = class_count
@@ -98,7 +103,7 @@ def prepare_data(training_paths, dataset_name, output_path):
 
     adjacency_matrix = np.zeros((training_count, training_count))
 
-    training_feature_vec = np.zeros((training_count, 4,), float)
+    training_feature_vec = np.zeros((training_count, 2,), float)
     # training_feature_vec = np.zeros((training_count, 4), float).tolist()
 
     training_labels = np.zeros((training_count, class_count), int)
@@ -110,8 +115,8 @@ def prepare_data(training_paths, dataset_name, output_path):
             labels[node.sub_id][node.class_id] = 1
             indices_list.append(node.id)
             # callstack one hot feature
-            feat_vec[node.sub_id][2] = Node.callstack_to_index[node.callStack]
-            feat_vec[node.sub_id][3] = Node.event_to_index[node.eventName]
+            # feat_vec[node.sub_id][2] = Node.callstack_to_index[node.callStack]
+            # feat_vec[node.sub_id][3] = Node.event_to_index[node.eventName]
             for child in node.children:
                 feat_vec[node.sub_id][1] += 1
                 feat_vec[child.sub_id][0] += 1
@@ -125,6 +130,8 @@ def prepare_data(training_paths, dataset_name, output_path):
     pickle.dump(adjacency_matrix, open(join(output_path, "{}.graph".format(dataset_name)), 'wb'))
     pickle.dump(training_feature_vec, open(join(output_path, "{}.x.features".format(dataset_name)), 'wb'))
     pickle.dump(training_labels, open(join(output_path, "{}.y.labels".format(dataset_name)), 'wb'))
+    # pickle.dump([Node.callstack_count, Node.callstack_to_index], open(join(output_path, "{}.callstack_dict".format(dataset_name)), 'wb'))
+    # pickle.dump([Node.event_count, Node.event_to_index], open(join(output_path, "{}.callstack_dict".format(dataset_name)), 'wb'))
     # Dump as text the raw test indices (index in the adjacency matrix not the index in the feature matrix)
     with open(join(output_path, "ind.{}.test.index".format(dataset_name)), 'w') as test_index_file:
         for node in testing_node_indices:
@@ -143,9 +150,23 @@ for dir in os.listdir("our_data_txt"):
         continue
     paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
                   x != ".DS_Store"]
-# print(paths.keys())
+print(paths.keys())
 # type = "skype"
-# paths = {type: [join("our_data_txt", type, x) for x in os.listdir(join("our_data_txt",type)) if x != ".DS_Store"]}
+# paths = {type: [join("our_data_txt", type, x) for x in os.listdir(join("our_data_txt", type)) if x != ".DS_Store"]}
 # print(paths)
 
+#
+# source_data = "full"  # Use feature labels from this dataset for the subset
+#
+# f = open("data/{}.callstack_dict".format(source_data), 'rb')
+# callstack_count, callstack_dict = pickle.load(f)
+# f.close()
+# f = open("data/{}.full_".format(source_data), 'rb')
+# event_count, event_dict = pickle.load(f)
+# f.close()
+#
+# prepare_data(paths, "skype", "data", callstack_count=callstack_count, callstack_dict=callstack_dict,
+#              event_dict=event_dict, event_count=event_count)
+#
+#
 prepare_data(paths, "full", "data")

@@ -4,7 +4,8 @@ import numpy as np
 import pickle as pkl
 import sys
 
-def prep(name):
+
+def prep(name, callstack_dict={}, event_dict={}, event_count=0, callstack_count=0):
     names = ["{}.graph".format(name), "{}.x.features".format(name), "{}.y.labels".format(name)]
     objects = []
     for i in range(len(names)):
@@ -19,7 +20,6 @@ def prep(name):
 
     A = sparse.csr_matrix(A, dtype=int)
     X = np.array(X)
-
 
     num_nodes = A.shape[0]
 

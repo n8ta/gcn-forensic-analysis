@@ -2,8 +2,7 @@ import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt
 
-CUTOFF = 0.2
-
+CUTOFF = 0.9
 
 def condense_and_plot(adj, class_labels, class_names):
     generate_graph(adj)
@@ -34,7 +33,7 @@ def condense_and_plot(adj, class_labels, class_names):
                 G.add_edges_from([(predecessor, super_node_name)])
             G.remove_node(node_index)
     print(len(G.nodes))
-    nx.draw_networkx_labels(G, {'winrar': (.5, 0)}, {'winrar': 'winrar'})
+    # nx.draw_networkx_labels(G, {'winrar': (.5, 0)}, {'winrar': 'winrar'})
     nx.draw(G, cmap=plt.get_cmap('jet'))
     nx.write_gexf(G, "winrar.gexf")
     plt.show()
