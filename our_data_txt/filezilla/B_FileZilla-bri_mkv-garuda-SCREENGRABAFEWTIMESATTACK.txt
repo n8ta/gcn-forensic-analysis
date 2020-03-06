@@ -1,0 +1,1407 @@
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"WqIJO"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+ig1d"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"3fHJg"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"3fHJg"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"rStEZ"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"ZBJlA"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+ig1d"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"VgCyc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"W5fox"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"m3IL6"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"it7/9"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zlqAP"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"des4O"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"k/Cf4"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"aw1CC"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"ZCT+A"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"m3IL6"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"KYfzY"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+9pPf"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"MjWtm"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"ZBJlA"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+ig1d"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"rP7lS"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"PmDAe"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"8z9iN"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"tio9S"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"ieb+u"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"ieb+u"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Bel6f"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"jjaFm"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"OqKwo"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Bel6f"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Bel6f"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"PmDAe"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"TMwKu"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"xj7j7"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"qNXnd"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"cnXbo"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z5BPY"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"W5fox"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"QLkFM"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"m3IL6"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Exit","filePath":"","callstack":"pPczL"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wFpKZ"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"lA+/3"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"b2wCc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"4bp99"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"icXLV"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+BM+j"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"PmDAe"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"S86CU"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"XwIUq"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"s0t3a"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"HkA+H"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qhEgn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"Thread Create","filePath":"","callstack":"HkA+H"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\avicap32.dll","callstack":"PyniR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\avicap32.dll","callstack":"WOSZz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\avicap32.dll","callstack":"+ePXO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\avicap32.dll","callstack":"Xlyx/"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\System32\\avicap32.dll","callstack":"ERUzC"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"YNjWR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"4xGiB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"IJBgS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"AGZ4F"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"JJoy8"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"ni3yC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"K5hLW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"Mn9+j"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\FileZilla FTP Client\\fzsftp.exe.Local","callstack":"vN+PS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_0f90a16e5a65585b","callstack":"nNkph"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"JR2h2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_0f90a16e5a65585b\\comctl32.dll","callstack":"dqBTT"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_0f90a16e5a65585b\\comctl32.dll","callstack":"FEMhr"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_0f90a16e5a65585b\\comctl32.dll","callstack":"gMwjQ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\KernelBase.dll","callstack":"dnk2/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WindowsShell.Manifest","callstack":"Go72V"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"UB/xW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"cji4b"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\msvfw32.dll","callstack":"RxtYr"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\msvfw32.dll.mui","callstack":"pJ/Fr"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\System32\\en-US\\msvfw32.dll.mui","callstack":"XEAXu"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\en-US\\avicap32.dll.mui","callstack":"PAyM5"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qhEgn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"it7/9"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"icXLV"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"S86CU"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"LHp3f"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"XvumU"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"HkA+H"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\uxtheme.dll","callstack":"0yf4O"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\uxtheme.dll","callstack":"FF30w"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\System32\\uxtheme.dll","callstack":"sem4l"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\System32\\KernelBase.dll","callstack":"JPoSC"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qhEgn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"+Ri7g"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"S86CU"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"HkA+H"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qhEgn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"HkA+H"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qhEgn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"O8jUB"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"cnXbo"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"it7/9"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"FGfGY"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"5VYBt"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"TMwKu"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"PmDAe"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"TMwKu"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"g4WWo"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"TvSMm"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Exit","filePath":"","callstack":"Ag+yM"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Eaj1Z"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"cD+s5"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"cnXbo"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Jbn96"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Hppyx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"9OL2r"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"it7/9"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"shwrg"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wFSx6"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"87yIm"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"87yIm"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"XwIUq"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"PmDAe"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"n4+Ol"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"eLp2i"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"m3IL6"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"owCVn"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"5VYBt"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"zYBbd"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"RL2gh"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"BkScc"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49853 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}

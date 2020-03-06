@@ -1,0 +1,8 @@
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49720 -\u0026gt; 192.168.244.129:4444","callstack":"47DEQ"}
+{"eventName":"Thread Create","filePath":"","callstack":"5d4Fz"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\uxtheme.dll","callstack":"LSKCV"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\uxtheme.dll","callstack":"ZJAy9"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\uxtheme.dll","callstack":"z5VY/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"EnqcF"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49720 -\u0026gt; 192.168.244.129:4444","callstack":"k/Cf4"}

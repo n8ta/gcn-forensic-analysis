@@ -1,0 +1,1424 @@
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libdirectsound_plugin.dll","callstack":"+AC1E"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libdirectsound_plugin.dll","callstack":"+D7U2"}
+{"eventName":"Load Image","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libdirectsound_plugin.dll","callstack":"W2rxb"}
+{"eventName":"Thread Create","filePath":"","callstack":"cr/pm"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"Pl5pq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"DAblv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"YgiqZ"}
+{"eventName":"Thread Create","filePath":"","callstack":"I2F5U"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"U9ig6"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe","callstack":"1ao3B"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe","callstack":"jWnTS"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe","callstack":"u7mJJ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"f8j6Q"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"51Zhm"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"BAAo5"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"CW2ri"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"YsjBp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsound.dll","callstack":"kpcTE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\MMDevAPI.dll","callstack":"LGCTB"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\dsound.dll.mui","callstack":"8iOKH"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libwaveout_plugin.dll","callstack":"+AC1E"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libwaveout_plugin.dll","callstack":"+D7U2"}
+{"eventName":"Load Image","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\audio_output\\libwaveout_plugin.dll","callstack":"W2rxb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"mpJi7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"mpJi7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"hZEl6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"8QNQt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"mHa1z"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"ogQI6"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"yD2Uw"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"YYZvf"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"/Ch0+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"nImop"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\ksuser.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ksuser.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ksuser.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ksuser.dll","callstack":"ry7jM"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\ksuser.dll","callstack":"LKuY6"}
+{"eventName":"Thread Create","filePath":"","callstack":"JYMjH"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"hUPA7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"h72i9"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"Ib+jO"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"Tfiax"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"PiMX+"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"Tfiax"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"ISOsK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"rmUzG"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"7xJg0"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"JIBhO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"7xJg0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"oUXmC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"rpzph"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"pMYJt"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"10KLH"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"pMYJt"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"A3GpU"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\wdmaud.drv.mui","callstack":"6j088"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"0OQMe"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"Vq4aO"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"+U+cy"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"Vq4aO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"fm7R6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"kdyxA"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"rmUzG"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"7xJg0"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"JIBhO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"7xJg0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"oUXmC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"rpzph"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"pMYJt"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\wdmaud.drv","callstack":"10KLH"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"pMYJt"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wdmaud.drv","callstack":"A3GpU"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\msacm32.drv","callstack":"o/rWK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"o/rWK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"2vlG2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"Y4w9I"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"dpQiL"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"eUu3E"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"uLIeE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.drv","callstack":"fyUeu"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\MSACM32.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msacm32.dll","callstack":"ry7jM"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msacm32.dll","callstack":"LKuY6"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\midimap.dll","callstack":"z6aEv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\midimap.dll","callstack":"z6aEv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\midimap.dll","callstack":"q731Y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\midimap.dll","callstack":"rZwLB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\midimap.dll","callstack":"QzgZ9"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\midimap.dll","callstack":"n/zb1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"O7fCA"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"Qr1pN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"n6Dd0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"/HMzN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"rISF/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc","callstack":"9urly"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc","callstack":"AZPwN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"tsbDX"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"dWB5i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"dWB5i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"dWB5i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"dWB5i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"dWB5i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"xLqWF"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"xLqWF"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"8B6N0"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"f6gD6"}
+{"eventName":"WriteFile","filePath":"C:\\$ConvertToNonresident","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc","callstack":"h50KD"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlcrc.5936","callstack":"Z7NDL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc","callstack":"yIYzK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"z/X0/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"hQVpk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"z/X0/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"hQVpk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"A/gGo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"uJQRo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.lock","callstack":"uUgNb"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.lock","callstack":"Ge81F"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.lock","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"EJWrW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"z992U"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"HPRH4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"Sp7Nq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"L/3+2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.uD5936","callstack":"djzYZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"kKH66"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"MrwAo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"UteV6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.uD5936","callstack":"uQGwa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.uD5936","callstack":"MOWp6"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.uD5936","callstack":"3ChKO"}
+{"eventName":"WriteFile","filePath":"C:\\$ConvertToNonresident","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.uD5936","callstack":"ru2AG"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc","callstack":"V9YSe"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini","callstack":"EZibW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\vlc-qt-interface.ini.lock","callstack":"+WfSZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc.ini","callstack":"EJWrW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc.ini","callstack":"EZibW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc.ini","callstack":"SPM2N"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc\\vlc-qt-interface.ini","callstack":"EJWrW"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc\\vlc-qt-interface.ini","callstack":"EZibW"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc\\vlc-qt-interface.ini","callstack":"SPM2N"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc.ini","callstack":"EJWrW"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc.ini","callstack":"EZibW"}
+{"eventName":"CreateFile","filePath":"C:\\ProgramData\\vlc.ini","callstack":"SPM2N"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"Thread Create","filePath":"","callstack":"oL0Mc"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\extensions\\VLSub.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua","callstack":"9urly"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions","callstack":"9urly"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata","callstack":"9urly"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub","callstack":"9urly"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub\\vlsub_conf.xml","callstack":"tsbDX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub\\vlsub_conf.xml","callstack":"tsbDX"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub\\vlsub_conf.xml","callstack":"4nw53"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub\\vlsub_conf.xml","callstack":"E9VsW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\extensions\\userdata\\vlsub\\locale","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"z/X0/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"hQVpk"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\services_discovery\\libmicrodns_plugin.dll","callstack":"+AC1E"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\services_discovery\\libmicrodns_plugin.dll","callstack":"+D7U2"}
+{"eventName":"Load Image","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\services_discovery\\libmicrodns_plugin.dll","callstack":"W2rxb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\IPHLPAPI.DLL","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\IPHLPAPI.DLL","callstack":"77qiO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\IPHLPAPI.DLL","callstack":"LKuY6"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\nsi.dll","callstack":"3IWUr"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"IQExh"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"/kt8p"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"xJG4O"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"C5KPU"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"LaJ4C"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"Ujd1y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mswsock.dll","callstack":"Zj9wX"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mswsock.dll","callstack":"n5Q+S"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\mswsock.dll","callstack":"6Yqsw"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"UDP Send","filePath":"DESKTOP-QFPEF5C.localdomain:5353 -\u0026gt; 224.0.0.251:5353","callstack":"6vXK1"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; DESKTOP-QFPEF5C.localdomain:5353","callstack":"HagCe"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; MOHAMMAD-LIST:52028","callstack":"/I77b"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; MOHAMMAD-LIST:52028","callstack":"818ib"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"Thread Create","filePath":"","callstack":"v8b1/"}
+{"eventName":"Thread Create","filePath":"","callstack":"s7T/y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"UDP Send","filePath":"DESKTOP-QFPEF5C.localdomain:5353 -\u0026gt; 224.0.0.251:5353","callstack":"6vXK1"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; DESKTOP-QFPEF5C.localdomain:5353","callstack":"HagCe"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; MOHAMMAD-LIST:52028","callstack":"/I77b"}
+{"eventName":"UDP Receive","filePath":"224.0.0.251:5353 -\u0026gt; MOHAMMAD-LIST:52028","callstack":"818ib"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\etc\\gcrypt\\fips_enabled","callstack":"IdEeJ"}
+{"eventName":"CreateFile","filePath":"C:\\proc\\sys\\crypto\\fips_enabled","callstack":"fkFqM"}
+{"eventName":"CreateFile","filePath":"C:\\etc\\gcrypt\\hwf.deny","callstack":"jBEOY"}
+{"eventName":"Thread Create","filePath":"","callstack":"9QTiQ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\access\\libhttps_plugin.dll","callstack":"+AC1E"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\access\\libhttps_plugin.dll","callstack":"+D7U2"}
+{"eventName":"Load Image","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\plugins\\access\\libhttps_plugin.dll","callstack":"W2rxb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dnsapi.dll","callstack":"L/5Of"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dnsapi.dll","callstack":"9g0/D"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dnsapi.dll","callstack":"CdWCl"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\rasadhlp.dll","callstack":"QkvgI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\rasadhlp.dll","callstack":"i69+U"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\rasadhlp.dll","callstack":"TRKxm"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\FWPUCLNT.DLL","callstack":"vFM27"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\FWPUCLNT.DLL","callstack":"Fxbyw"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\FWPUCLNT.DLL","callstack":"tjZb8"}
+{"eventName":"Thread Create","filePath":"","callstack":"Fr1aQ"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51495 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51495 -\u0026gt; goldeneye.videolan.org:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51495 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51495 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51496 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51496 -\u0026gt; goldeneye.videolan.org:http","callstack":"Z2e1F"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51496 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Thread Exit","filePath":"","callstack":"SrLgh"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51496 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}
+{"eventName":"Thread Exit","filePath":"","callstack":"SrLgh"}
+{"eventName":"Thread Create","filePath":"","callstack":"UPFVl"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51497 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51497 -\u0026gt; goldeneye.videolan.org:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51497 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51497 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51498 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51498 -\u0026gt; goldeneye.videolan.org:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51498 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Thread Exit","filePath":"","callstack":"SrLgh"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51498 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"xNkJb"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Create","filePath":"","callstack":"UPFVl"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51499 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51499 -\u0026gt; goldeneye.videolan.org:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51499 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"LW4Nv"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\normaliz.dll","callstack":"okgGR"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51499 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:51500 -\u0026gt; goldeneye.videolan.org:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:51500 -\u0026gt; goldeneye.videolan.org:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:51500 -\u0026gt; goldeneye.videolan.org:http","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"9P00C"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\vlc\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"g1ty2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist","callstack":"evwVI"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_streams.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\anevia_xml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\appletrailers.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\bbc_co_uk.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\cue.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\dailymotion.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\jamendo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"NNzSK"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\modules\\simplexml.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\koreus.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\liveleak.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\newgrounds.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\rockbox_fm_presets.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\soundcloud.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\twitch.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vimeo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\vocaroo.luac","callstack":"rnOsq"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\portable","callstack":"9DCoC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8ad3p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"8KD2d"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"wjGSr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming","callstack":"poD8L"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"t6pvT"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"7hJnp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"YMMr/"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"PuDrp"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files (x86)\\VideoLAN\\VLC\\lua\\playlist\\youtube.luac","callstack":"rnOsq"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2tVId"}
+{"eventName":"Thread Exit","filePath":"","callstack":"SrLgh"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:51500 -\u0026gt; goldeneye.videolan.org:http","callstack":"O/Zxd"}

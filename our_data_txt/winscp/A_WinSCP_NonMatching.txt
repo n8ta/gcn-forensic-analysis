@@ -1,0 +1,1493 @@
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ccosk"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"mXJ0C"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Kc/gl"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"yxVAW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"xCHXp"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"T6Mb3"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"BSDMM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ZFTAc"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ZFTAc"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"f9SbT"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"gVGP1"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"omS6w"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"LmfZe"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"rntUC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe.Local","callstack":"OpE3b"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161","callstack":"QcJ9r"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"ZDiQV"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"9QhvD"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"icN/b"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\msIso.dll","callstack":"5eqhn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msIso.dll","callstack":"5eqhn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msIso.dll","callstack":"9thRO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msIso.dll","callstack":"UyOzC"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"ldqx7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\sxs.dll","callstack":"2o4O6"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\sxs.dll","callstack":"CVK4N"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\sxs.dll","callstack":"SBPef"}
+{"eventName":"Thread Create","filePath":"","callstack":"OiGqU"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"FCeUS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"5V+84"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"/G0/p"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"gBzLo"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"bn9UI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"wB9L2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"kV1SX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"7GqhB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"kV1SX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"7GqhB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"kV1SX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"7GqhB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"kV1SX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"7GqhB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"cO76S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"wB9L2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"iv0T0"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"wB9L2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"4b6MV"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"MCTWn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\ieframe.dll.mui","callstack":"DGxnn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"CFrDM"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"kZypX"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"RpkMC"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"9tvBv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\user32.dll","callstack":"MIEqo"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WindowsShell.Manifest","callstack":"AWnYX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe.Local","callstack":"4TpBv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161","callstack":"2KLal"}
+{"eventName":"Thread Create","filePath":"","callstack":"pslAW"}
+{"eventName":"Thread Create","filePath":"","callstack":"qSUGz"}
+{"eventName":"Thread Create","filePath":"","callstack":"EORJr"}
+{"eventName":"Thread Exit","filePath":"","callstack":"xsymB"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qMUD5"}
+{"eventName":"Thread Exit","filePath":"","callstack":"qMUD5"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WindowsShell.Manifest","callstack":"FXhkT"}
+{"eventName":"Thread Create","filePath":"","callstack":"wx18h"}
+{"eventName":"Thread Create","filePath":"","callstack":"Eqejx"}
+{"eventName":"Thread Create","filePath":"","callstack":"Z8Z44"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srpapi.dll","callstack":"SoHq0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srpapi.dll","callstack":"ncpiY"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\srpapi.dll","callstack":"0hof2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"+GYyM"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"YTgVT"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"GlRFL"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wintrust.dll","callstack":"M8doF"}
+{"eventName":"Thread Create","filePath":"","callstack":"Iyia9"}
+{"eventName":"Thread Create","filePath":"","callstack":"Krwhs"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\urlmon.dll.mui","callstack":"0zCrj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\mshtml.dll.mui","callstack":"VHKeP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\MLANG.dll","callstack":"FwEpm"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mlang.dll","callstack":"FwEpm"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mlang.dll","callstack":"hPkuc"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\mlang.dll","callstack":"fuKmG"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"zxN6M"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"7+X3I"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"hGTSj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"DwM1z"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCache","callstack":"s5aev"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCache","callstack":"2GX5R"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows","callstack":"RvsWz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.IE5","callstack":"FeDRX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE","callstack":"o5JiR"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"fU3ah"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"G9HxX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"tXDVE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"qrs4Z"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCookies","callstack":"if8TV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCookies","callstack":"Flx9u"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows","callstack":"zu/ZL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\INetCookies","callstack":"ShCxB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"DpXd4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"Fw8OB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"GlPLW"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"b9oI0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\History","callstack":"J/G/1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\History","callstack":"H5mMP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\History","callstack":"Gg4Ef"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\History\\History.IE5","callstack":"YFBwI"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"dh39H"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Us80m"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"gvBsE"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"wtCGT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"LG7O2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"YCH1H"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\UIAutomationCore.dll","callstack":"dMCi2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\UIAutomationCore.dll","callstack":"CMDGb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\UIAutomationCore.dll","callstack":"KXEbd"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"0brWs"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\UIAutomationCore.dll","callstack":"1unc8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"v1VZJ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"nLzGV"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"yRqSh"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"46oWb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wldp.dll","callstack":"2H06o"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wintrust.dll","callstack":"ELN3y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"XMHmK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msimtf.dll","callstack":"jjRYP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msimtf.dll","callstack":"VFKYB"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msimtf.dll","callstack":"X3TEq"}
+{"eventName":"Thread Create","filePath":"","callstack":"oZEaj"}
+{"eventName":"Thread Create","filePath":"","callstack":"Fearz"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"fTrkn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ResourcePolicyClient.dll","callstack":"g0s2K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ResourcePolicyClient.dll","callstack":"n+RwF"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\ResourcePolicyClient.dll","callstack":"vTtQu"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msimtf.dll","callstack":"Q0/HP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"QTK9o"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"7o1fz"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"DLKEw"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"OQ2gm"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"0wXK8"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"uWCZX"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"mN+PA"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"7Q4b0"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\d3d10warp.dll","callstack":"qWt65"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"qWt65"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"sEqNH"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"iKRd4"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"8iPe3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"kdckx"}
+{"eventName":"Thread Create","filePath":"","callstack":"8aw8q"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"ojrPh"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"/5B6l"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"WNKhE"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\winmm.dll.mui","callstack":"xjPMj"}
+{"eventName":"Thread Create","filePath":"","callstack":"f3Ufv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\winmm.dll","callstack":"FKbVd"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\winmm.dll","callstack":"1/e/x"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winmm.dll","callstack":"QFkW3"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"1TDBe"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"uGF4Q"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"6L07n"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"9lKRO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"vwFg9"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"H3h+M"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"2zvy4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"ZCtTw"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"NqjSn"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mshtml.dll","callstack":"VgZ9r"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\Fonts\\tahoma.ttf","callstack":"igJse"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\Fonts\\tahoma.ttf","callstack":"sQ0te"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"moCaO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"fxxMp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\Fonts\\tahoma.ttf","callstack":"YSc5O"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"Du1kG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msls31.dll","callstack":"G4RiZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"me/M3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"xg85K"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"ILB3j"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\Fonts\\seguisym.ttf","callstack":"SsyGD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"97l4m"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"bPLwz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"8je5r"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"JjGQW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"bfjP/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"S1tcx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\Fonts\\seguisym.ttf","callstack":"LC3ln"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"k2G2h"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"VZduo"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"mDn6C"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"B+NGB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"6Bfhl"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"7R+Mr"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"Bineb"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"h+X28"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"6fTl7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"XinGQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"kyPor"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"XW1He"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"Oj0bC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"8Ztvi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"ixZs2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"jhWPV"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"CvRkB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"D47o/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"cWiKe"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"BH/Ag"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"lgrKQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"MX6oE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"ArJUC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"xy75W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d3d10warp.dll","callstack":"G7DsN"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"PH4h3"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"jREiK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll","callstack":"mQHjM"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll","callstack":"9z7Hg"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll","callstack":"n8/X0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\winnsi.dll","callstack":"xGW9F"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\winnsi.dll","callstack":"oMLYK"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\winnsi.dll","callstack":"h2Cj8"}
+{"eventName":"Thread Create","filePath":"","callstack":"q7YJ7"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AIMeM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"sRmKM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bgvo7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winhttp.dll","callstack":"h8The"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"6IFxW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"+er7O"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc6.dll","callstack":"pEaKP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"Bi/uO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"CnAuu"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dhcpcsvc.dll","callstack":"EyBfi"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"jN+l/"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"NmTaC"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"no0Bm"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"UvMxp"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"SkPd9"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ESekR"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AWoms"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"5JoZz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"6SbW0"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"wxEB2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"m1RBs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"tm9j+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"gcJ3n"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"9hr2i"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"X1HFt"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"imbqz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"dWejb"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"1+jou"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"s1sfa"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"79AXH"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"DO4Bj"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"6+RMK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"x9k6h"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"nO9qN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bbFlh"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"WkTlx"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"fKIQa"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"/1AkY"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"jGCUu"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"XUgR3"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"fY78z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"dnRLb"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"xjoKG"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"vlcLk"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"E1T+g"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AbZfr"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"aKs5C"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"H2sh+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ExOl9"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"p3xu7"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"VNzxv"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"zxzU9"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"F8ouw"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"gEa4h"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"SZAPw"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"JjFaw"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"/acpa"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"e6cGj"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"h7Jl1"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AovRs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"rIvxL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Fc6IQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bnbh1"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"+Durv"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"XUCWZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"pN1/h"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"FPuYB"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"0dhPY"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"pDO64"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"XxSR0"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"fzA6u"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"adkR2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ro+tW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"fStbA"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"TJocb"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"jpmtz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"2gl2a"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"lp5u+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"oHNLS"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"SexQ4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\openssl.cnf","callstack":"G9hF1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\openssl.cnf","callstack":"m3o5G"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\openssl.cnf","callstack":"1SM5m"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\openssl.cnf","callstack":"bsS2e"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"yUlUR"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"tDu9O"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"NRJ2z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"wOj61"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"NPEky"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"CX/Jl"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"4kyH+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"+uVHB"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"VmZfU"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ynRo0"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"E0EP7"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"YTc8w"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"m+/l7"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"QXnPN"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"6/ptR"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"dBAjI"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"iO3az"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"5bq4w"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"2qy2F"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"YEgMO"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"V23Hj"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"m5Cqe"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"KoNil"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"qp/5g"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bxgpf"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"82zJd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"p6Yfn"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"QKRGE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\cert.pem","callstack":"90VIY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\cert.pem","callstack":"J3nrC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\cert.pem","callstack":"v710L"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\cert.pem","callstack":"Qrsjs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"8bNZc"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"XwVcR"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"/Vn8C"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"DJ6WA"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Ki7OM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"GFjUO"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"if+RW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"upCLL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"rYOqM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"XjDSW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"um0kQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"mt+rf"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"k9iQJ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ygaJw"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"R6HyW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"1a9QV"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"PVybm"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"rntJD"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"hJpw5"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"O1S0v"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"2H2k/"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"oROmP"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"kOZfx"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"kOZfx"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"mwRPZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"oUPdk"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"2KQ5s"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"G/PiS"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"jQaw3"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"8euO8"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Qh2U4"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AZ/62"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"11xZY"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"h10vS"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bQGSf"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"j43uf"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"U5jUB"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"JN2Xa"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"uOyFR"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"J4/cr"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"nNcqy"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Kg8n+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ULbmh"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"r6yBE"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ZVE0B"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"d9cMW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"HWBfB"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"noWbK"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Lt/Bn"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"yXhtm"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"waL31"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"pTljn"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"xa9eO"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Iiqzx"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"xnC5n"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"0J9wt"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"duXJ+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"dVz0w"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"e9BSQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"AsmSi"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"/egKZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"/xhig"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"10nne"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"UAQ52"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"4GHs6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\","callstack":"pDPpE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\e0708dc5.0","callstack":"ima9c"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\","callstack":"pDPpE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\3513523f.0","callstack":"ima9c"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\","callstack":"pDPpE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\3513523f.0","callstack":"ima9c"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\","callstack":"pDPpE"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\%CommonProgramFiles(86)%\\SSL\\certs\\3513523f.0","callstack":"ima9c"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Seohy"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Y87F8"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Y1HN4"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"5m7mg"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"84lS+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"I29B5"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"uupcM"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"UGora"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"RwNKL"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"cKBVP"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"U/c3Z"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"nhHqj"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"PskVn"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"QkYZq"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"RSEH+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"SFPGh"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"iPx/M"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"FrQoh"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"uV+U2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Ww0XC"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"k0pBD"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"oROmP"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"kOZfx"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"EsbsL"}
+{"eventName":"Thread Create","filePath":"","callstack":"DFW9g"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dnsapi.dll","callstack":"ZBlbq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dnsapi.dll","callstack":"yAiy0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe","callstack":"ZBlbq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe","callstack":"yAiy0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\crypt32.dll.mui","callstack":"uKppk"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"CIEYH"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"xJFEO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\AppContainerUserCertRead","callstack":"bfO17"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates","callstack":"krW4K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates","callstack":"dCEMY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs","callstack":"dCEMY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs","callstack":"dCEMY"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\cryptnet.dll","callstack":"mwCUR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptnet.dll","callstack":"mwCUR"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptnet.dll","callstack":"CenRg"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\cryptnet.dll","callstack":"BX+PN"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"xFXWO"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"FQ94e"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"SYXGh"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"ad6Ja"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"jQwBr"}
+{"eventName":"Thread Create","filePath":"","callstack":"uRcHp"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"u6Yjm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"iMHQq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"fc+1k"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\webio.dll","callstack":"5yHx7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\webio.dll","callstack":"5yHx7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\webio.dll","callstack":"KLvlO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\webio.dll","callstack":"Z4re8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\webio.dll","callstack":"Cb6pU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winhttp.dll","callstack":"+7iQV"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winhttp.dll","callstack":"f4DH/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winhttp.dll","callstack":"eq65D"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\winhttp.dll","callstack":"vJHWs"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:49902 -\u0026gt; 104.18.11.39:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49902 -\u0026gt; 104.18.11.39:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49902 -\u0026gt; 104.18.11.39:http","callstack":"+XSZ4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"OF6ez"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"RG92w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"JfvOQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"3Tkva"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"YG9rr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"gHHy8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"/x7Vy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"FTmuf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\77E2FC87D1B90A4441921D718E18C852","callstack":"wximt"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"GBhWs"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"8o/Zh"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\77E2FC87D1B90A4441921D718E18C852","callstack":"BMp2i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"n5Y9r"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\77E2FC87D1B90A4441921D718E18C852","callstack":"NHnAg"}
+{"eventName":"Thread Exit","filePath":"","callstack":"wVXUN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"Hjp60"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"OZKYK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"bz75u"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"b2Krg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"tEaK6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"vgxtU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"b2Krg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"tEaK6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_082D815283257D528E2562294FA2BA49","callstack":"vgxtU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"rMekj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"G6lgx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\69C6F6EC64E114822DF688DC12CDD86C","callstack":"uG6xb"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"57J2X"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"orsLr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"gBeIe"}
+{"eventName":"Thread Create","filePath":"","callstack":"24w3S"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"u6Yjm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"iMHQq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"fc+1k"}
+{"eventName":"Thread Create","filePath":"","callstack":"v+9eL"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:49903 -\u0026gt; 72.21.91.29:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49903 -\u0026gt; 72.21.91.29:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49903 -\u0026gt; 72.21.91.29:http","callstack":"+XSZ4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"RG92w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"JfvOQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"3Tkva"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"YG9rr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"gHHy8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"/x7Vy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"FTmuf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"wximt"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"GBhWs"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"8o/Zh"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"BMp2i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"n5Y9r"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"NHnAg"}
+{"eventName":"Thread Exit","filePath":"","callstack":"wVXUN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"qDcoQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"NtuBC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"d2oJc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"GDo3K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"jKO7p"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"XCLaz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"+DbzZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"JY7T4"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\B398B80134F72209547439DB21AB308D_CCF564BE5A3C924B17DDEBDEB5236E12","callstack":"3LDst"}
+{"eventName":"Thread Create","filePath":"","callstack":"aGI20"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"Hjp60"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"OZKYK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"bz75u"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"b2Krg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"tEaK6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"vgxtU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"b2Krg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"tEaK6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_C9F1182CE58891AE5D3B04B6BD2A750B","callstack":"vgxtU"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"rMekj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"G6lgx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\1694560B0C737E58D6701D2EF2176C07","callstack":"uG6xb"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"57J2X"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"orsLr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"gBeIe"}
+{"eventName":"Thread Create","filePath":"","callstack":"24w3S"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"u6Yjm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"iMHQq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"fc+1k"}
+{"eventName":"TCP Connect","filePath":"DESKTOP-QFPEF5C.localdomain:49904 -\u0026gt; 72.21.91.29:http","callstack":"/Vn8C"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49904 -\u0026gt; 72.21.91.29:http","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49904 -\u0026gt; 72.21.91.29:http","callstack":"+XSZ4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"RG92w"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"JfvOQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"3Tkva"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"YG9rr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"gHHy8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"/x7Vy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content","callstack":"FTmuf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"wximt"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"GBhWs"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"8o/Zh"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\Content\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"BMp2i"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"n5Y9r"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"NHnAg"}
+{"eventName":"Thread Exit","filePath":"","callstack":"wVXUN"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"qDcoQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow","callstack":"NtuBC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"d2oJc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData","callstack":"GDo3K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"jKO7p"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"XCLaz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"+DbzZ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"JY7T4"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\AF3BA1CDD96BBC740C9CE3754F348BED_F6E6EEC26DD7F4FAE6C9D93C0E67E722","callstack":"3LDst"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"Qb/U6"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\gpapi.dll","callstack":"jtuN0"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\gpapi.dll","callstack":"Zt7Kk"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\gpapi.dll","callstack":"l3RS9"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My","callstack":"ptiUo"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My","callstack":"Hiewu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates","callstack":"UwxEo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs","callstack":"UwxEo"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs","callstack":"UwxEo"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"42Dv5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"PiwiB"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:49901 -\u0026gt; teamforge.net:https","callstack":"O/Zxd"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"xm2zX"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ywP3K"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"u2dNC"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"cY/rO"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"yxVAW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"aY1ri"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"5XDKm"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"hV7lj"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"wkETs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"wkETs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"bZVm4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"thYHK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"thYHK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Documents","callstack":"i9zcj"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"GtG7E"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"GtG7E"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"Gboqq"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"KObyI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161\\comctl32.dll","callstack":"pv1gt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\gdi32full.dll","callstack":"tgyo2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"0KVv2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe","callstack":"ZBcnC"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"jvBU8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"jvBU8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"y4PH2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"ieGbT"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"N/mQd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"AyouP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"9KEGD"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"Xftus"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"43L8p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"edRNj"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"hlqXc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"edRNj"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"hlqXc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"nAy5t"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"nJyKm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"nJyKm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"SfDYy"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"uPX89"}
+{"eventName":"Thread Create","filePath":"","callstack":"blV6H"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2hE+6"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"thYHK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"thYHK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"GtG7E"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"GtG7E"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"jvBU8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"jvBU8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"y4PH2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"ieGbT"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"N/mQd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"AyouP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"9KEGD"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"Xftus"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"43L8p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"edRNj"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"hlqXc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"edRNj"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"hlqXc"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"nAy5t"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"CdpKs"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"CdpKs"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"SfDYy"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"uPX89"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"rsMzy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\desktop.ini","callstack":"9dmU2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\desktop.ini","callstack":"v2L0Z"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"CZvKH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"zM1de"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\desktop.ini","callstack":"7MTsW"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\desktop.ini","callstack":"m5a5k"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"g6QQn"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"0LyNq"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"rdzgR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"e6wF6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"PVl8O"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"+AI5N"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"h2bI6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"KX6I+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"zNtB6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"kkTwL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"mATZK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"5jLTP"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"l/hDf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"3Zd+l"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"zNtB6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"kkTwL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"mATZK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"5jLTP"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad","callstack":"l/hDf"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"3Zd+l"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"zNtB6"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"kkTwL"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"mATZK"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"5jLTP"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users","callstack":"l/hDf"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"3Zd+l"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"gHpnB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"ia79T"}
+{"eventName":"Thread Create","filePath":"","callstack":"zyOUZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"WGvaP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"SfDYy"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"uPX89"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"SfDYy"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"uPX89"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"tU5av"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"+vasb"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"UfhTd"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"6Vovb"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"lQSzZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"6vgP4"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\IconCacheToDelete","callstack":"diFnr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_idx.db","callstack":"pNMKF"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_16.db","callstack":"l9mnm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"+LyLq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\iconcache_32.db","callstack":"wG7Fc"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"p/7YD"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\system\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Wbem\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\dotnet\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\WindowsApps\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"56P0K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"229DA"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\system\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Wbem\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\dotnet\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\WindowsApps\\@{microsoft.zunevideo_10.20011.10711.0_x64__8wekyb3d8bbwe?ms-resource:\\microsoft.zunevideo\\files\\assets\\fileextension.png}","callstack":"9Xoo/"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"Bh7IC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"KmitT"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"K4k0h"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"Fl8+3"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"YwoJj"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"2KUOa"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"3YJH+"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\resources.pri","callstack":"EdF5c"}
+{"eventName":"ReadFile","filePath":"C:\\$Directory","callstack":"47DEQ"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_neutral_split.scale-100_8wekyb3d8bbwe\\resources.pri","callstack":"EdF5c"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"WXK9q"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\MrmCoreR.dll","callstack":"VY3gY"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\MrmCoreR.dll","callstack":"Z3hme"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\MrmCoreR.dll","callstack":"IbSeU"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\resources.pri","callstack":"XdX8r"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\resources.pri","callstack":"BO1we"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\resources.pri","callstack":"E+77E"}
+{"eventName":"Thread Create","filePath":"","callstack":"L/FJx"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"aFW+2"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"GfX35"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"47DEQ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"1nvmJ"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"5iXvk"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"DSGq7"}
+{"eventName":"ReadFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"7T30z"}
+{"eventName":"Thread Exit","filePath":"","callstack":"5V073"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"7x3Wk"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"xl+1K"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"JdqRZ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local","callstack":"1LFPL"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"J/dtp"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\ThumbCacheToDelete","callstack":"FwSrV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\thumbcache_idx.db","callstack":"pCawF"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\thumbcache_16.db","callstack":"ajNZu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"z8isS"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer\\thumbcache_32.db","callstack":"+4X6H"}
+{"eventName":"Thread Create","filePath":"","callstack":"i89+W"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"irt8J"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"5pbIE"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets","callstack":"+Q1lm"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"dsThn"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\Assets\\FileExtension.targetsize-32.png","callstack":"M/qqq"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"vGjZB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\Windows\\Explorer","callstack":"BwAyf"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"RA2nS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"jMCSu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"trskR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"2PB+Z"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"lho8G"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"EyCzx"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"24fk+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"vrlC1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"FICPH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"/0kw4"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"YMQo3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"PEhf8"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"24fk+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"vrlC1"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"FICPH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"/0kw4"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad","callstack":"YMQo3"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"PEhf8"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"24fk+"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"vrlC1"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"FICPH"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"/0kw4"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users","callstack":"YMQo3"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"PEhf8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"e0Jn8"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"pSru+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"pSru+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"pSru+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"pSru+"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"FyaTT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"Atmmt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"CyIKs"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"YomE1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"fEF3Y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptext.dll","callstack":"A5+7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptext.dll","callstack":"7u0Sx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptext.dll","callstack":"hp/jO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\cryptext.dll","callstack":"YGWdP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptext.dll","callstack":"Qheq7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"77qiO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"S94LG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"rM+zS"}
+{"eventName":"Thread Create","filePath":"","callstack":"PxWlG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"QQSbs"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"QJnhi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"gGHAi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"Api3D"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"EOOuH"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"DbD9a"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"YpKdB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Wf3eF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\crypt32.dll","callstack":"k6TT6"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"TCoWy"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msisip.dll","callstack":"NVgfI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\msisip.dll","callstack":"XiG9S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\msisip.dll","callstack":"k9X7x"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\msisip.dll","callstack":"X/2q2"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"sBWks"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"iVN48"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"4ETDL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"6ivdm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"EPzzd"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"lk/FH"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"EVeej"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"jlFdU"}
+{"eventName":"Thread Create","filePath":"","callstack":"pGKT1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wshext.dll","callstack":"NVgfI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\wshext.dll","callstack":"XiG9S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wshext.dll","callstack":"k9X7x"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\wshext.dll","callstack":"QeqWb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\wshext.dll","callstack":"X/2q2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"NVgfI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"XiG9S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"k9X7x"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"ozYXw"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"QeqWb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"X/2q2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"NcI2H"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"3sWHJ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"/huzL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"Xs63x"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\OpcServices.DLL","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"ry7jM"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"3oz5R"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gqHGT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gqHGT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gqHGT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gqHGT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gqHGT"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"S94LG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"OE8Ne"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"rM+zS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"QQSbs"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"gGHAi"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\XmlLite.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\xmllite.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\xmllite.dll","callstack":"77qiO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\xmllite.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"smtJa"}
+{"eventName":"Thread Create","filePath":"","callstack":"JYMjH"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\xmllite.dll","callstack":"5lhFR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"66ctQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"qHnoZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"wF3Ng"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"iMugi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"s44gB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"K+/IA"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"BUaH4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"oEjIN"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"c/HuQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"Fj0aP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"pJ189"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\AppxSip.dll","callstack":"et1S1"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"G1ja/"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"nITL2"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"Oc+Bg"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"NVgfI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"XiG9S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"k9X7x"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"QeqWb"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"X/2q2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll","callstack":"/huzL"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\EsdSip.dll","callstack":"NVgfI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\EsdSip.dll","callstack":"XiG9S"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\EsdSip.dll","callstack":"k9X7x"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\EsdSip.dll","callstack":"X/2q2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"aMGm7"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"xNSdC"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"ZB0DO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srmshell.dll","callstack":"A5+7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srmshell.dll","callstack":"7u0Sx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\srmshell.dll","callstack":"hp/jO"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\srmshell.dll","callstack":"YGWdP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srmshell.dll","callstack":"Qheq7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\atl.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srmtrace.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\atl.dll","callstack":"77qiO"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\srmtrace.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\srmtrace.dll","callstack":"ry7jM"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\atl.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\atl.dll","callstack":"OE8Ne"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\srmtrace.dll","callstack":"gqHGT"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\srmtrace.dll","callstack":"LKuY6"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"Y8Ydv"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"A5+7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"7u0Sx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"hp/jO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"3ugzl"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\rshx32.dll","callstack":"YGWdP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"ry7jM"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"br7v+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"gqHGT"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"S94LG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"rM+zS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"QQSbs"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"gGHAi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"LdLUp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\authz.dll","callstack":"2aUNT"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"JO0Cy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"JO0Cy"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"JO0Cy"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"JO0Cy"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"EvFfl"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"baaqa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"eO68H"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"eO68H"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"eO68H"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"eO68H"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"eO68H"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\rshx32.dll.mui","callstack":"Kt9PF"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dsrole.dll","callstack":"jNG1y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\dsrole.dll","callstack":"ZzBpk"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\dsrole.dll","callstack":"Z1eam"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\dsrole.dll","callstack":"TAwqr"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\rpcrt4.dll","callstack":"Qjp14"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"MJnNf"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"+YBCR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"mZ9/H"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"Pi1KT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"EZhbX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"EZhbX"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"yTr1j"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"2YYfR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"d/jgh"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"HIpM6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"8jquj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ntdsapi.dll","callstack":"EKDci"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ntdsapi.dll","callstack":"77qiO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\ntdsapi.dll","callstack":"ry7jM"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\ntdsapi.dll","callstack":"LKuY6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"fhShc"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"b9piP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"mYkHn"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"1TyG2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\aclui.dll.mui","callstack":"7Ms0X"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"gvNsB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe.Local","callstack":"Tv9CD"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161","callstack":"s7AxD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"r3EGC"}
+{"eventName":"Thread Create","filePath":"","callstack":"ItbRZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"93wnI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\aclui.dll","callstack":"arN0z"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\rpcrt4.dll","callstack":"ida28"}
+{"eventName":"Thread Exit","filePath":"","callstack":"coYcK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"A5+7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"7u0Sx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"hp/jO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"SRbGU"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"YGWdP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"n4Bh4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"OukXE"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\docprop.dll","callstack":"5A+6j"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe.Local","callstack":"Qe7m7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161","callstack":"CaOiQ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"CeH5w"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\coml2.dll","callstack":"4OXD2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"KtveR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"fVPJa"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"0CEoE"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\combase.dll.mui","callstack":"7UN+Z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\KernelBase.dll.mui","callstack":"6MLVL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\KernelBase.dll.mui","callstack":"ubhs8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"i2TKY"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"2MelC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\KernelBase.dll.mui","callstack":"nFLWt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"0LvMp"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"eVtE8"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"JX9au"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"geGd3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"eHD/Z"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"zuwVy"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"RNaT2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"RNaT2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"RNaT2"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"1U3+c"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"Rwyqy"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"EnD6E"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"5s7jF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"VQlGE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"Crx8r"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"qyzLI"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"xxzl+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"nU9a4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"jATTp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"e/MLx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"g+nw0"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"Fqx/n"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"SAxmX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"CyUQw"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"uDb2Y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"9g/KY"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"PYHPW"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"lVuFi"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"J3GPQ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"XI1a1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"o6VlT"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"8aaj6"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"26SM1"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"geDzP"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\RTWorkQ.dll","callstack":"H68EF"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\RTWorkQ.dll","callstack":"ciR2Q"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\RTWorkQ.dll","callstack":"oKjH6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\RTWorkQ.dll","callstack":"tTRC8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"47oi4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"GG8IG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"nAvpg"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"nam0D"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"9iv6j"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"qceiP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"TMinj"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"TE1OC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"lwsmi"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"hQ4Vp"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"YLFtp"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"neEjB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"A7wx/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"TfNmj"}
+{"eventName":"Thread Create","filePath":"","callstack":"Zx4G7"}
+{"eventName":"Thread Create","filePath":"","callstack":"aBFc2"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"cgNzb"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"BYGOU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"HBSNv"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"/vmUR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"WniXX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"gr6ca"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"pnCRn"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"j2X6z"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"5kEW9"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"y28Bx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"pVg/A"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"9LWHn"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\CompPkgSup.dll","callstack":"KMCLv"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\Windows.StateRepositoryPS.dll","callstack":"ogEQB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\Windows.StateRepositoryPS.dll","callstack":"VI1Tm"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"Ws8wP"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"LeuQh"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"Yg4xH"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfplat.dll","callstack":"yXlZs"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"Ki+ch"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"uWpaS"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"Af/ds"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\mfmkvsrcsnk.dll","callstack":"G1Vwt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"9CWxP"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"Thread Exit","filePath":"","callstack":"KzwfK"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"A5+7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"7u0Sx"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"hp/jO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"3Diab"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"dyPVl"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"YGWdP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"H3VWD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"LUcmZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"n4Bh4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"OukXE"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"NSlej"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.exe.Local","callstack":"MNRF8"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161","callstack":"pMEMP"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"Av9W7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"kY5zB"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"5H7sa"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"Cv3c3"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"xNwJE"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"jS7ZJ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"J29VP"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"xBT/h"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"xBT/h"}
+{"eventName":"Load Image","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"Eismm"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"9bk+3"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"Sc7yv"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"FLnPz"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"QPzLs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"ydMN+"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"68SMs"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"9Cgve"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"2YJeU"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"kKRUB"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"8ZPtA"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"mf//X"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"ERAxf"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"+hyxd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"hsm6L"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"qNbO1"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"1h4M7"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"EB9VQ"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"nEH3B"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"qe3pa"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"VAviu"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"PgNNP"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"PRXyK"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"Z9H/7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161\\comctl32.dll","callstack":"hjpNa"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\en-US\\twext.dll.mui","callstack":"B2/Ji"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.1685_none_573dd8456ee18161\\comctl32.dll","callstack":"cf0J+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"m+Wf0"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"5YVCG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"mY2qF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"sIxBM"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"2oFF+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"vhZud"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"uXdLD"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"dtiL2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"veV2l"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"2oFF+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"ksk6+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"NCvyu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"uXdLD"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"dtiL2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"veV2l"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"2oFF+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"ksk6+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"NCvyu"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"uXdLD"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users\\Mohammad","callstack":"dtiL2"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"veV2l"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"2oFF+"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"ksk6+"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"NCvyu"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"uXdLD"}
+{"eventName":"DeviceIoControl","filePath":"C:\\Users","callstack":"dtiL2"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"veV2l"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"/2oJm"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shlwapi.dll","callstack":"tO/5X"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"LcJVJ"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"36JKp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\propsys.dll","callstack":"BDMSE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"NbNpE"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"2WNaF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"4wd6b"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"tzmyl"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"0gPtu"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Windows.UI.AppDefaults.dll","callstack":"61/S9"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"FTPqD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"72rOd"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"84ZRY"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe\\microsoft.system.package.metadata\\S-1-5-21-1794200229-3910822890-571767539-1001-MergedResources-2.pri","callstack":"giWvc"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\urlmon.dll","callstack":"eexv5"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv","callstack":"SlzPm"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\bri.mkv:Zone.Identifier","callstack":"VszLY"}
+{"eventName":"Thread Create","filePath":"","callstack":"v8b1/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twext.dll","callstack":"fy1Rs"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49903 -\u0026gt; 72.21.91.29:http","callstack":"xz6Yn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49904 -\u0026gt; 72.21.91.29:http","callstack":"xz6Yn"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49902 -\u0026gt; 104.18.11.39:http","callstack":"xz6Yn"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"rjMK4"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:49904 -\u0026gt; 72.21.91.29:http","callstack":"O/Zxd"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:49903 -\u0026gt; 72.21.91.29:http","callstack":"O/Zxd"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:49902 -\u0026gt; 104.18.11.39:http","callstack":"O/Zxd"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Exit","filePath":"","callstack":"UPjZV"}
+{"eventName":"Thread Create","filePath":"","callstack":"bk5vA"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"Thread Exit","filePath":"","callstack":"UPjZV"}
+{"eventName":"Thread Create","filePath":"","callstack":"bk5vA"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"t6yti"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"rHlJJ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"1k9jj"}
+{"eventName":"Thread Create","filePath":"","callstack":"RCUw9"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"zRL5f"}
+{"eventName":"Thread Create","filePath":"","callstack":"FKcwH"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Windows.Shell.ServiceHostBuilder.dll","callstack":"eXBCU"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Windows.Shell.ServiceHostBuilder.dll","callstack":"hNH4x"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\Windows.Shell.ServiceHostBuilder.dll","callstack":"tDMeJ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\Windows.Shell.ServiceHostBuilder.dll","callstack":"pluDS"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\Windows.Shell.ServiceHostBuilder.dll","callstack":"ACHR4"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"idVIE"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"8WSa7"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"Nn/n+"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\ieframe.dll","callstack":"zUUfe"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"/JYCp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"r7r3C"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"N4O1+"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\Windows.UI.AppDefaults.dll","callstack":"nmGIF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"dsMt0"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"LxPVv"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"FNC+e"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"JB7tX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"HkzOI"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"estme"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"9/prF"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"rxOIl"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"hZQ7z"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\resources.pri","callstack":"Sdqx4"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\LaunchWinApp.exe","callstack":"SRTZC"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\LaunchWinApp.exe","callstack":"SueE/"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\internet explorer\\iexplore.exe","callstack":"SRTZC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\internet explorer\\iexplore.exe","callstack":"SueE/"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"SRTZC"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"SueE/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"KCHxe"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"/F0av"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"Lqfj6"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"IbU4o"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"61cRp"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"9+jeF"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"dHhgN"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"KOpSD"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"egLZY"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"UEJCi"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"ApWH0"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"5QpZ6"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"9snLS"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"2z8Gw"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"LPle3"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"1Te+y"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"yKLdw"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"kMXFM"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"w1dG2"}
+{"eventName":"CreateFile","filePath":"C:\\Program Files\\VMware\\VMware Tools\\VMwareHostOpen.exe","callstack":"kBnkj"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"jTV9n"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"6a/9T"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"/Qh6q"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"aVVzC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"/kFbG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"AK3UU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"AK3UU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"0NvfL"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2k61W"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"LFQ9y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"bxo9Q"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"/dr3q"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2Zjbt"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"ZSZWk"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"wa6FX"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"6tnzg"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"e6EFp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"mlzYh"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"BF5Wf"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"hb2hq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"WbjP6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"uwgDB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"HjwQN"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"irZMp"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"1a8Pr"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"bneQN"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2tgS4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"P8w1I"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"oLW2D"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"58/j+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"/fn9M"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"JhDt+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"nO2mO"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"UFjPr"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"bn+EA"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"zADc3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"zADc3"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"Bruvq"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"UsUoz"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"7LnnB"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"D/A8U"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"SH6xy"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"AnQMf"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"QnHh8"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"PIb/c"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"sPNvM"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"p8zDu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"4ue3Y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"9TTS+"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"hWENU"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"SoY9o"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"tvBSc"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"WOr11"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"xgX2l"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"K/tAD"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"YkYZ/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"rV5/7"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"2lCRa"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"0u3Ce"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"0u3Ce"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"0u3Ce"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"K2D4J"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"uEYvu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"qu30c"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"GAIo5"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"nZHBZ"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"sQKXy"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"Umate"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"oFkis"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"+Z56M"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"E8S8/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"6GBQR"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"2gWDh"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"0IVaq"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"unXjC"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WinTypes.dll","callstack":"qAp31"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WinTypes.dll","callstack":"1D1wG"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\WinTypes.dll","callstack":"lkSm4"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\execmodelproxy.dll","callstack":"Y1Q7p"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\execmodelproxy.dll","callstack":"k+XFu"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\execmodelproxy.dll","callstack":"7jz7m"}
+{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\execmodelproxy.dll","callstack":"HuCkZ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\resources.pri","callstack":"4kbDW"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"CcuX/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"CXC0y"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.dll","callstack":"CXC0y"}
+{"eventName":"Thread Exit","filePath":"","callstack":"mBp6c"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\OpcServices.dll","callstack":"PvaLo"}
+{"eventName":"Thread Exit","filePath":"","callstack":"2hE+6"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"edRNj"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\","callstack":"hlqXc"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"xy1aI"}
+{"eventName":"CreateFile","filePath":"C:\\Users","callstack":"MpTVl"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad","callstack":"GL7/+"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop","callstack":"3PCsV"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\Trace Files","callstack":"MdNub"}
+{"eventName":"CreateFile","filePath":"C:\\","callstack":"SfDYy"}
+{"eventName":"NotifyChangeDirectory","filePath":"C:\\","callstack":"uPX89"}
+{"eventName":"Thread Create","filePath":"","callstack":"w9nmW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"4gN6f"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"HiPhq"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"TNHXW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"kF5e2"}
+{"eventName":"Thread Exit","filePath":"","callstack":"UPjZV"}
+{"eventName":"Thread Exit","filePath":"","callstack":"UPjZV"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"PYRQc"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"0FjdS"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"TNHXW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"kF5e2"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"p+bQQ"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"XJM6Y"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"T1JSW"}
+{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\twinapi.appcore.dll","callstack":"qjirZ"}
+{"eventName":"Thread Exit","filePath":"","callstack":"UPjZV"}
+{"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"wJCv0"}
+{"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"kOZfx"}
+{"eventName":"Thread Exit","filePath":"","callstack":"cXW02"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"8Nn5l"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"8Nn5l"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"YcvYr"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"G8mJq"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"eXeVy"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"uz17p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\VirtualStore\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"uz17p"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"h8Rcn"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"FPe5r"}
+{"eventName":"TCP Disconnect","filePath":"DESKTOP-QFPEF5C.localdomain:49891 -\u0026gt; garuda.cs.northwestern.edu:ssh","callstack":"O/Zxd"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"3li+Q"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"dEDJX"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"8oQ00"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"jeLA3"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\Desktop\\WinSCP.ini","callstack":"TQcnK"}
+{"eventName":"CreateFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\winscp.rnd","callstack":"VtJyP"}
+{"eventName":"WriteFile","filePath":"C:\\Users\\Mohammad\\AppData\\Roaming\\winscp.rnd","callstack":"c/Cso"}
+{"eventName":"Thread Exit","filePath":"","callstack":"cXW02"}
+{"eventName":"Thread Exit","filePath":"","callstack":"lgVSg"}
+{"eventName":"Thread Exit","filePath":"","callstack":"NIjKt"}
+{"eventName":"Thread Exit","filePath":"","callstack":"1Wt9A"}
+{"eventName":"Thread Exit","filePath":"","callstack":"NIjKt"}
+{"eventName":"Thread Exit","filePath":"","callstack":"ix/MD"}
+{"eventName":"Thread Exit","filePath":"","callstack":"RzUt1"}
+{"eventName":"Thread Exit","filePath":"","callstack":"kCWrI"}
+{"eventName":"Thread Exit","filePath":"","callstack":"jVcXW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"tzfHW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"rnyBo"}
+{"eventName":"Thread Exit","filePath":"","callstack":"tzfHW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"/1pnH"}
+{"eventName":"Thread Exit","filePath":"","callstack":"MLdgA"}
+{"eventName":"Thread Exit","filePath":"","callstack":"tzfHW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"tzfHW"}
+{"eventName":"Thread Exit","filePath":"","callstack":"ZkRe4"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"4RsyN"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\twinui.appcore.dll","callstack":"utCSk"}
+{"eventName":"ReadFile","filePath":"C:\\Users\\Mohammad\\AppData\\Local\\Microsoft\\OneDrive\\19.232.1124.0008\\FileSyncShell.dll","callstack":"szoZa"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\cryptui.dll","callstack":"t2bdg"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\DWrite.dll","callstack":"zO0nH"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\d2d1.dll","callstack":"emcnK"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\Windows.UI.dll","callstack":"Bpt5u"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\globinputhost.dll","callstack":"Hik+/"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"cP2Z6"}
+{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\combase.dll","callstack":"k5g2R"}
+{"eventName":"Thread Exit","filePath":"","callstack":"r8CvR"}
+{"eventName":"Process Exit","filePath":"","callstack":"xzrWW"}

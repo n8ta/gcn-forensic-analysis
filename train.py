@@ -7,22 +7,26 @@ from tensorflow.keras.callbacks import EarlyStopping
 import tensorflow
 from tensorflow.keras.optimizers import Adam
 
-A, X, y, train_mask, val_mask, test_mask = prep("n8ta_full")
+A, X, y, train_mask, val_mask, test_mask = prep("full")
 A_raw = A.toarray()
 
 N = A.shape[0]
 F = X.shape[-1]
 n_classes = y.shape[-1]
 
+print("Number of classes: {}".format(n_classes))
+# print("X shape: {}".format(X))
+
 # Model definition
 X_in = Input(shape=(F,))  # Input layer for X
 A_in = Input((None,), sparse=True)  # Input layer for A
+
 
 graph_conv_1 = GraphConv(A.shape[0], activation='relu')([X_in, A_in])
 graph_conv_2 = GraphConv(A.shape[0], activation='relu')([graph_conv_1, A_in])
 graph_conv_5 = GraphConv(A.shape[0], activation='relu')([graph_conv_2, A_in])
 graph_conv_6 = GraphConv(A.shape[0], activation='relu')([graph_conv_5, A_in])
-# graph_conv_7 = GraphConv(n_classes, activation='softmax')([graph_conv_6, A_in])
+graph_conv_7 = GraphConv(n_classes, activation='softmax')([graph_conv_6, A_in])
 graph_conv_8 = GraphConv(n_classes, activation='softmax')([graph_conv_6, A_in])
 
 # Build model
@@ -38,11 +42,10 @@ validation_data = ([X, A], y, val_mask)
 history = model.fit([X, A],
                     y,
                     sample_weight=train_mask,
-                    epochs=800,
+                    epochs=1,
                     batch_size=N,
                     validation_data=validation_data,
                     shuffle=False,
-                    workers=8,
                     callbacks=[
                         EarlyStopping(patience=50, restore_best_weights=True)]
                     )
@@ -52,6 +55,7 @@ eval_results = model.evaluate([X, A],
                               y,
                               sample_weight=test_mask,
                               batch_size=N)
+
 tensorflow.saved_model.save(model, "trained")
 
 # acc = history.history['acc']
