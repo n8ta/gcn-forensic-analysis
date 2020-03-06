@@ -64,6 +64,7 @@ def prepare_data(training_paths, dataset_name, output_path):
                     last_node = current_node
 
     for class_name in training_paths.keys():
+        print("Training class {}".format(class_name))
         prepare("training", class_dict[class_name], training_paths[class_name])
 
     training_count = len(list(filter(lambda node: node.type == "training", nodes.values())))
@@ -106,14 +107,14 @@ def prepare_data(training_paths, dataset_name, output_path):
 def jn(text):
     return join("our_data_txt", text)
 
-paths = {}
-for dir in os.listdir("our_data_txt"):
-    if dir == ".DS_Store":
-        continue
-    paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
-                  i < 2 and x != ".DS_Store"]
-print(paths.keys())
-# paths = {'filezilla': [join("our_data_txt", 'filezilla', x) for x in os.listdir(join("our_data_txt",'filezilla')) if x != ".DS_Store"]}
-# print(paths)
+# paths = {}
+# for dir in os.listdir("our_data_txt"):
+#     if dir == ".DS_Store":
+#         continue
+#     paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
+#                   x != ".DS_Store"]
+# print(paths.keys())
+paths = {'filezilla': [join("our_data_txt", 'filezilla', x) for x in os.listdir(join("our_data_txt",'filezilla')) if x != ".DS_Store"]}
+print(paths)
 
-prepare_data(paths, "n8ta", "data")
+prepare_data(paths, "filezilla", "data")
