@@ -3,6 +3,7 @@ from spektral import utils
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dropout
 from util import prep
+from tensorflow.keras.callbacks import EarlyStopping
 import tensorflow
 from tensorflow.keras.optimizers import Adam
 
@@ -43,7 +44,10 @@ history = model.fit([X, A],
                     batch_size=N,
                     validation_data=validation_data,
                     shuffle=False,
-                    workers=8)
+                    workers=8,
+                    callbacks=[
+                        EarlyStopping(patience=50, restore_best_weights=True)]
+                    )
 
 # Evaluate model
 eval_results = model.evaluate([X, A],
