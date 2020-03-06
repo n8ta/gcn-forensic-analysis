@@ -7,7 +7,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 import tensorflow
 from tensorflow.keras.optimizers import Adam
 
-A, X, y, train_mask, val_mask, test_mask = prep("n8ta")
+A, X, y, train_mask, val_mask, test_mask = prep("full")
 A_raw = A.toarray()
 
 N = A.shape[0]
