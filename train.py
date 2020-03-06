@@ -5,7 +5,7 @@ from tensorflow.keras.layers import Input, Dropout
 from util import prep
 import tensorflow
 
-A, X, y, train_mask, val_mask, test_mask = prep("n8ta")
+A, X, y, train_mask, val_mask, test_mask = prep("n8tax")
 A_raw = A.toarray()
 
 N = A.shape[0]

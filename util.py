@@ -16,8 +16,10 @@ def prep(name):
                 objects.append(pkl.load(f))
 
     A, X, y = tuple(objects)
+
     A = sparse.csr_matrix(A, dtype=int)
-    X = sparse.csr_matrix(X, dtype=float)
+    X = np.array(X)
+
 
     num_nodes = A.shape[0]
 
@@ -37,4 +39,4 @@ def prep(name):
 
     number_of_features = x_training_feats.shape[1]
     number_of_categories = y_training_labels.shape[1]
-    return A, X.toarray(), y, x_training_mask, x_validation_mask, x_testing_mask
+    return A, X, y, x_training_mask, x_validation_mask, x_testing_mask
