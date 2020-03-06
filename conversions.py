@@ -106,7 +106,7 @@ def prepare_data(training_paths, dataset_name, output_path, callstack_dict={}, e
     training_feature_vec = np.zeros((training_count, 2,), float)
     # training_feature_vec = np.zeros((training_count, 4), float).tolist()
 
-    training_labels = np.zeros((training_count, class_count), int)
+    training_labels = np.zeros((training_count, class_count), float)
     testing_node_indices = list()
     training_node_indices = list()
 
