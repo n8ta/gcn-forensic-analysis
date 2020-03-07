@@ -42,7 +42,7 @@ history = model.fit([X, A],
                     y,
                     sample_weight=train_mask,
                     epochs=60,
-                    batch_size=int(N/10),
+                    batch_size=N,
                     validation_data=validation_data,
                     shuffle=False)
 # Evaluate model

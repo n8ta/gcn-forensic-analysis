@@ -160,9 +160,9 @@ for dir in os.listdir("our_data_txt"):
     paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
                   x != ".DS_Store"]
 print(paths.keys())
-# type = "skype"
-# paths = {type: [join("our_data_txt", type, x) for x in os.listdir(join("our_data_txt", type)) if x != ".DS_Store"]}
-# print(paths)
+type = "skype"
+paths = {type: [join("our_data_txt", type, x) for x in os.listdir(join("our_data_txt", type)) if x != ".DS_Store"]}
+print(paths)
 
 #
 # source_data = "full"  # Use feature labels from this dataset for the subset
@@ -178,4 +178,4 @@ print(paths.keys())
 #              event_dict=event_dict, event_count=event_count)
 #
 #
-prepare_data(paths, "full", "data")
+prepare_data(paths, "skype", "data")
