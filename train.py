@@ -23,10 +23,10 @@ A_in = Input((None,), sparse=True)  # Input layer for A
 
 
 graph_conv_1 = GraphConv(A.shape[0], activation='relu')([X_in, A_in])
-graph_conv_2 = GraphConv(A.shape[0], activation='relu')([graph_conv_1, A_in])
-graph_conv_3 = GraphConv(A.shape[0], activation='relu')([graph_conv_2, A_in])
-graph_conv_4 = GraphConv(A.shape[0], activation='relu')([graph_conv_3, A_in])
-graph_conv_7 = GraphConv(n_classes, activation='softmax')([graph_conv_4, A_in])
+# graph_conv_2 = GraphConv(A.shape[0], activation='relu')([graph_conv_1, A_in])
+# graph_conv_3 = GraphConv(A.shape[0], activation='relu')([graph_conv_2, A_in])
+# graph_conv_4 = GraphConv(A.shape[0], activation='relu')([graph_conv_3, A_in])
+graph_conv_7 = GraphConv(n_classes, activation='softmax')([graph_conv_1, A_in])
 graph_conv_8 = GraphConv(n_classes, activation='softmax')([graph_conv_7, A_in])
 
 # Build model
@@ -42,12 +42,9 @@ history = model.fit([X, A],
                     y,
                     sample_weight=train_mask,
                     epochs=60,
-                    batch_size=N,
+                    batch_size=int(N/10),
                     validation_data=validation_data,
-                    shuffle=False,
-                    callbacks=[
-                        EarlyStopping(patience=50, restore_best_weights=True)])
-
+                    shuffle=False)
 # Evaluate model
 eval_results = model.evaluate([X, A],
                               y,
