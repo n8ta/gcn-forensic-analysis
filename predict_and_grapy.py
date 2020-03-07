@@ -8,6 +8,8 @@ import os
 import pickle as pkl
 
 input_data = "skype"
+
+
 trace_types = ['filezilla', 'spotifyOnline', 'VLC', 'skype', 'spotifyOffline', 'winscp', 'winrar']
 
 print("started loading saved model")
@@ -22,6 +24,6 @@ Anew = tensorflow.convert_to_tensor(Anew.toarray(), float)
 out = model([Xnew, Anew])
 
 np = out.numpy()
-pkl.dump(np, open("prediction.pkl"), 'r+')
+pkl.dump(np, open("prediction.pkl",'wb'))
 
 condense_and_plot(Anew_raw, out.numpy().tolist(), trace_types)

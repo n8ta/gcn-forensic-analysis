@@ -5,8 +5,8 @@ import pickle as pkl
 import sys
 
 
-def prep(name, callstack_dict={}, event_dict={}, event_count=0, callstack_count=0):
-    names = ["{}.graph".format(name), "{}.x.features".format(name), "{}.y.labels".format(name)]
+def prep(name):
+    names = ["{}.graph".format(name), "{}.x.features".format(name), "{}.y.labels".format(name), "{}.weights".format(name)]
     objects = []
     for i in range(len(names)):
         with open("data/{}".format(names[i]), 'rb') as f:
@@ -16,7 +16,7 @@ def prep(name, callstack_dict={}, event_dict={}, event_count=0, callstack_count=
             else:
                 objects.append(pkl.load(f))
 
-    A, X, y = tuple(objects)
+    A, X, y, weights = tuple(objects)
 
     A = sparse.csr_matrix(A, dtype=int)
     X = np.array(X)
@@ -27,11 +27,12 @@ def prep(name, callstack_dict={}, event_dict={}, event_count=0, callstack_count=
     x_validation_feats = np.array([list(x) for i, x in enumerate(X) if i % 4 == 0])
     x_testing_feats = np.array([list(x) for i, x in enumerate(X) if i % 4 == 1])
 
-    x_training_mask = np.array([(i % 4 != 0) and (i % 4 != 1) for i in
-                                range(
-                                    num_nodes)])  # every [False,False,True,True] repeated until we hit # training nodes
-    x_validation_mask = np.array([(i % 4 == 0) for i in range(num_nodes)])
-    x_testing_mask = np.array([(i % 4 == 1) for i in range(num_nodes)])
+    # Use the weights provided by the pickle but zero out 1/2 of them to use a testing / validation nodes
+    x_training_mask = np.array([(x if ((i % 4 != 0) and (i % 4 != 1)) else 0) for i,x in enumerate(weights)])
+
+    # 1/4 of nodes are validation and 1/4 are test
+    x_testing_mask = np.array([(x if (i % 4 == 0) else 0) for i, x in enumerate(weights)])
+    x_validation_mask = np.array([(x if (i % 4 == 1) else 0) for i, x in enumerate(weights)])
 
     y_training_labels = np.array([x for i, x in enumerate(y) if (i % 4 != 0) and (i % 4 != 1)])
     y_validation_labels = np.array([x for i, x in enumerate(y) if i % 4 == 0])

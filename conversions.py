@@ -12,6 +12,11 @@ class Node:
     event_count = 0
     event_to_index = {}
     callstack_to_index = {}
+    nodes = []
+
+    def number_of_nodes_in_class_id(id):
+        return len(list(filter(lambda node: node.class_id == id, Node.nodes)))
+
 
     def __init__(self, str, class_id, type, path):
         obj = json.loads(str)
@@ -40,6 +45,7 @@ class Node:
         self.sub_id = Node.sub_counts[self.type]
         Node.count += 1
         Node.sub_counts[self.type] += 1
+        Node.nodes.append(self)
 
     def one_hot_event_name(self):
         arr = [0 for x in range(size())]
@@ -56,16 +62,10 @@ def size():
     return max(Node.event_count, Node.callstack_count)
 
 
-def prepare_data(training_paths, dataset_name, output_path, callstack_dict={}, event_dict={}, event_count=0, callstack_count=0):
+def prepare_data(training_paths, dataset_name, output_path):
     nodes = {}  # name -> node
-    class_count = 0
-    class_dict = {}
-
-    Node.callstack_to_index = callstack_dict
-    Node.event_to_index = event_dict
-    Node.callstack_count = callstack_count
-    Node.event_count = event_count
-
+    class_count = 0  # how many classes have we seen
+    class_dict = {}  # class_name -> class id
     for class_name in training_paths.keys():
         class_dict[class_name] = class_count
         class_count = class_count + 1
@@ -98,6 +98,14 @@ def prepare_data(training_paths, dataset_name, output_path, callstack_dict={}, e
     for class_name in training_paths.keys():
         print("Training class {}".format(class_name))
         prepare("training", class_dict[class_name], training_paths[class_name])
+    weights = np.zeros(0)
+    for class_name in training_paths.keys():
+        count_in_class = Node.number_of_nodes_in_class_id(class_dict[class_name])
+        weight_per_node = float(Node.count)/float(class_count*count_in_class)
+        print("class is: {}, \t# nodes in class: {}, \ttotal nodes: {}\t weight per item in class: {}".
+              format(class_name,count_in_class, Node.count, weight_per_node))
+        class_weight = np.ones(count_in_class)*weight_per_node  # Weight all classes equally
+        weights = np.hstack((weights,  class_weight))
 
     training_count = len(list(filter(lambda node: node.type == "training", nodes.values())))
 
@@ -126,7 +134,8 @@ def prepare_data(training_paths, dataset_name, output_path, callstack_dict={}, e
                              training_feature_vec,
                              training_node_indices)
 
-    # Dump in pickle formatodel =
+    # Dump in pickle formatodel
+    pickle.dump(weights, open(join(output_path, "{}.weights".format(dataset_name)), 'wb'))
     pickle.dump(adjacency_matrix, open(join(output_path, "{}.graph".format(dataset_name)), 'wb'))
     pickle.dump(training_feature_vec, open(join(output_path, "{}.x.features".format(dataset_name)), 'wb'))
     pickle.dump(training_labels, open(join(output_path, "{}.y.labels".format(dataset_name)), 'wb'))
