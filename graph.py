@@ -2,6 +2,7 @@ import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt
 
+# dict_keys(['filezilla', 'spotifyOnline', 'VLC', 'skype', 'spotifyOffline', 'winscp', 'winrar'])
 CUTOFF = 0.9
 
 def condense_and_plot(adj, class_labels, class_names):
@@ -62,6 +63,3 @@ def add_edges_to_graph(adjacency_matrix, G):
 training_classes = ['utorrent', 'winrar', 'skype_file',
                     'winscp', 'spotify_online', 'filezilla',
                     'spotify_offline', 'skype_video']
-
-
-# generate_graph([[0, 0, 1, 1], [0, 1, 0, 0], [1, 0, 1, 1], [1, 1, 1, 1]])
