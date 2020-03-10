@@ -27,7 +27,8 @@ def prep(name):
     x_validation_feats = np.array([list(x) for i, x in enumerate(X) if i % 4 == 0])
     x_testing_feats = np.array([list(x) for i, x in enumerate(X) if i % 4 == 1])
 
-    # Use the weights provided by the pickle but zero out 1/2 of them to use a testing / validation nodes
+    # Use the weights provided by the pickle but zero o
+    # ut 1/2 of them to use a testing / validation nodes
     x_training_mask = np.array([(x if ((i % 4 != 0) and (i % 4 != 1)) else 0) for i,x in enumerate(weights)])
 
     # 1/4 of nodes are validation and 1/4 are test

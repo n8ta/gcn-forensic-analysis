@@ -17,7 +17,6 @@ class Node:
     def number_of_nodes_in_class_id(id):
         return len(list(filter(lambda node: node.class_id == id, Node.nodes)))
 
-
     def __init__(self, str, class_id, type, path):
         obj = json.loads(str)
         self.fileName = obj['filePath']
@@ -89,8 +88,8 @@ def prepare_data(training_paths, dataset_name, output_path):
                         current_node = Node(line, class_id, type, path)
                         nodes[filePath + path + eventName] = current_node
                     if last_node:
-                        last_node.out_degree += + 1
-                        current_node.in_degree += + 1
+                        last_node.out_degree += 1
+                        current_node.in_degree += 1
                         current_node.parents.add(last_node)
                         last_node.children.add(current_node)
                     last_node = current_node
@@ -101,18 +100,17 @@ def prepare_data(training_paths, dataset_name, output_path):
     weights = np.zeros(0)
     for class_name in training_paths.keys():
         count_in_class = Node.number_of_nodes_in_class_id(class_dict[class_name])
-        weight_per_node = float(Node.count)/float(class_count*count_in_class)
+        weight_per_node = float(Node.count) / float(class_count * count_in_class)
         print("class is: {}, \t# nodes in class: {}, \ttotal nodes: {}\t weight per item in class: {}".
-              format(class_name,count_in_class, Node.count, weight_per_node))
-        class_weight = np.ones(count_in_class)*weight_per_node  # Weight all classes equally
-        weights = np.hstack((weights,  class_weight))
+              format(class_name, count_in_class, Node.count, weight_per_node))
+        class_weight = np.ones(count_in_class) * weight_per_node  # Weight all classes equally
+        weights = np.hstack((weights, class_weight))
 
     training_count = len(list(filter(lambda node: node.type == "training", nodes.values())))
 
     adjacency_matrix = np.zeros((training_count, training_count))
 
     training_feature_vec = np.zeros((training_count, 2,), float)
-    # training_feature_vec = np.zeros((training_count, 4), float).tolist()
 
     training_labels = np.zeros((training_count, class_count), float)
     testing_node_indices = list()
@@ -153,29 +151,19 @@ def jn(text):
     return join("our_data_txt", text)
 
 
+
+
 paths = {}
 for dir in os.listdir("our_data_txt"):
     if dir == ".DS_Store" or dir == "attack":
         continue
     paths[dir] = [join("our_data_txt", dir, x) for i, x in enumerate(os.listdir(join("our_data_txt", dir))) if
                   x != ".DS_Store"]
-print(paths.keys())
-type = "skype"
-paths = {type: [join("our_data_txt", type, x) for x in os.listdir(join("our_data_txt", type)) if x != ".DS_Store"]}
-print(paths)
 
-#
-# source_data = "full"  # Use feature labels from this dataset for the subset
-#
-# f = open("data/{}.callstack_dict".format(source_data), 'rb')
-# callstack_count, callstack_dict = pickle.load(f)
-# f.close()
-# f = open("data/{}.full_".format(source_data), 'rb')
-# event_count, event_dict = pickle.load(f)
-# f.close()
-#
-# prepare_data(paths, "skype", "data", callstack_count=callstack_count, callstack_dict=callstack_dict,
-#              event_dict=event_dict, event_count=event_count)
-#
-#
-prepare_data(paths, "skype", "data")
+# print(paths.keys())
+# type = "filezilla"
+# paths = {type: [join("our_data_txt", type, x) for i, x in enumerate(os.listdir(join("our_data_txt", type)))
+#                 if x != ".DS_Store"]}
+# print(paths)
+
+prepare_data(paths, "full", "data")

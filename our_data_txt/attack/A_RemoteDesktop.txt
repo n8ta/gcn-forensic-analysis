@@ -1,14 +1,14 @@
 {"eventName":"TCP Receive","filePath":"DESKTOP-QFPEF5C.localdomain:49725 -\u0026gt; 192.168.244.129:4444","callstack":"47DEQ"}
 {"eventName":"Thread Create","filePath":"","callstack":"5d4Fz"}
-{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"A2FO5"}
-{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\SHCore.dll","callstack":"BHitc"}
-{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\windows.storage.dll","callstack":"BHitc"}
-{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\kernel.appcore.dll","callstack":"PlK1R"}
-{"eventName":"Load Image","filePath":"C:\\Windows\\SysWOW64\\powrprof.dll","callstack":"PlK1R"}
-{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"bxGnu"}
-{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"7OMSd"}
-{"eventName":"CreateFile","filePath":"C:\\Windows\\SysWOW64\\KernelBase.dll","callstack":"FW+HE"}
-{"eventName":"ReadFile","filePath":"C:\\Windows\\SysWOW64\\shell32.dll","callstack":"vUpTG"}
+{"eventName":"Load Image","filePath":"C:\Windows\SysWOW64\shell32.dll","callstack":"A2FO5"}
+{"eventName":"Load Image","filePath":"C:\Windows\SysWOW64\SHCore.dll","callstack":"BHitc"}
+{"eventName":"Load Image","filePath":"C:\Windows\SysWOW64\windows.storage.dll","callstack":"BHitc"}
+{"eventName":"Load Image","filePath":"C:\Windows\SysWOW64\kernel.appcore.dll","callstack":"PlK1R"}
+{"eventName":"Load Image","filePath":"C:\Windows\SysWOW64\powrprof.dll","callstack":"PlK1R"}
+{"eventName":"CreateFile","filePath":"C:\Windows\SysWOW64\KernelBase.dll","callstack":"bxGnu"}
+{"eventName":"CreateFile","filePath":"C:\Windows\SysWOW64\KernelBase.dll","callstack":"7OMSd"}
+{"eventName":"CreateFile","filePath":"C:\Windows\SysWOW64\KernelBase.dll","callstack":"FW+HE"}
+{"eventName":"ReadFile","filePath":"C:\Windows\SysWOW64\shell32.dll","callstack":"vUpTG"}
 {"eventName":"Thread Exit","filePath":"","callstack":"0DTQe"}
 {"eventName":"TCP Send","filePath":"DESKTOP-QFPEF5C.localdomain:49725 -\u0026gt; 192.168.244.129:4444","callstack":"Ap3Qv"}
 {"eventName":"Thread Create","filePath":"","callstack":"v8b1/"}
